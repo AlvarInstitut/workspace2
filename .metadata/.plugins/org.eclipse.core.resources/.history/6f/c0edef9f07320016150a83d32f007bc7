@@ -1,0 +1,20 @@
+package classesVideoClub;
+
+import java.util.List;
+
+import org.hibernate.Query;
+import org.hibernate.Session;
+import org.hibernate.cfg.Configuration;
+
+public class Hib_LlistatClients {
+
+	public static void main(String[] args) {
+		 Session sessio = new Configuration().configure().buildSessionFactory().openSession();
+		 Query q = sessio.createQuery("from Client order by nom");
+         for (Client c : (List<Client>) q.list()){
+        	 System.out.println("Nom client: " + c.getNom() + ". Adreça: " + c.getAdreca());
+         }
+         sessio.close();
+	}
+
+}

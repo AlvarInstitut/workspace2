@@ -1,0 +1,21 @@
+2016-06-15 09:15:31 INFO  Version:37 - HCANN000001: Hibernate Commons Annotations {4.0.1.Final}
+2016-06-15 09:15:31 INFO  Version:41 - HHH000412: Hibernate Core {4.0.0.Final}
+2016-06-15 09:15:31 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2016-06-15 09:15:31 INFO  Environment:342 - HHH000021: Bytecode provider name : javassist
+2016-06-15 09:15:31 INFO  Configuration:1920 - HHH000043: Configuring from resource: /hibernate.cfg.xml
+2016-06-15 09:15:31 INFO  Configuration:1939 - HHH000040: Configuration resource: /hibernate.cfg.xml
+2016-06-15 09:15:31 WARN  DTDEntityResolver:74 - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+2016-06-15 09:15:31 INFO  Configuration:714 - HHH000221: Reading mappings from resource: classesVideoClub/Productora.hbm.xml
+2016-06-15 09:15:31 INFO  Configuration:714 - HHH000221: Reading mappings from resource: classesVideoClub/PelLicula.hbm.xml
+2016-06-15 09:15:31 INFO  Configuration:714 - HHH000221: Reading mappings from resource: classesVideoClub/Client.hbm.xml
+2016-06-15 09:15:31 INFO  Configuration:714 - HHH000221: Reading mappings from resource: classesVideoClub/Lloguer.hbm.xml
+2016-06-15 09:15:31 INFO  Configuration:2061 - HHH000041: Configured SessionFactory: null
+2016-06-15 09:15:31 INFO  DriverManagerConnectionProviderImpl:90 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-06-15 09:15:31 INFO  DriverManagerConnectionProviderImpl:110 - HHH000115: Hibernate connection pool size: 20
+2016-06-15 09:15:31 INFO  DriverManagerConnectionProviderImpl:113 - HHH000006: Autocommit mode: false
+2016-06-15 09:15:31 INFO  DriverManagerConnectionProviderImpl:127 - HHH000401: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://80.35.84.29:5432/video_club]
+2016-06-15 09:15:31 INFO  DriverManagerConnectionProviderImpl:132 - HHH000046: Connection properties: {user=video_club, password=****}
+2016-06-15 09:15:32 INFO  Dialect:120 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2016-06-15 09:15:32 INFO  LobCreatorBuilder:120 - HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+2016-06-15 09:15:32 INFO  TransactionFactoryInitiator:68 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2016-06-15 09:15:32 INFO  ASTQueryTranslatorFactory:48 - HHH000397: Using ASTQueryTranslatorFactory

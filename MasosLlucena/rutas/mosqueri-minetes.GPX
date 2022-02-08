@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="CompeGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.compegps.com">
+      <text>CompeGPS TEAM, SL</text>
+    </link>
+    <time>2010-04-23T09:38:03Z</time>
+    <bounds maxlat="40.144494" maxlon="-0.320053" minlat="40.139853" minlon="-0.326431"/>
+  </metadata>
+  <trk>
+    <name>mosqueri-minetes</name>
+    <desc>04/06/2005 17:32:46                </desc>
+    <trkseg>
+      <trkpt lat="40.139853" lon="-0.321636">
+        <ele>-236.8</ele>
+        <time>2005-06-04T15:32:46Z</time>
+      </trkpt>
+      <trkpt lat="40.140232" lon="-0.320053">
+        <ele>-236.8</ele>
+        <time>2005-06-04T15:32:48Z</time>
+      </trkpt>
+      <trkpt lat="40.140618" lon="-0.320579">
+        <ele>-236.8</ele>
+        <time>2005-06-04T15:32:49Z</time>
+      </trkpt>
+      <trkpt lat="40.140970" lon="-0.321430">
+        <ele>-236.8</ele>
+        <time>2005-06-04T15:32:50Z</time>
+      </trkpt>
+      <trkpt lat="40.141667" lon="-0.322809">
+        <ele>-236.8</ele>
+        <time>2005-06-04T15:32:51Z</time>
+      </trkpt>
+      <trkpt lat="40.142534" lon="-0.324344">
+        <ele>-236.8</ele>
+        <time>2005-06-04T15:32:56Z</time>
+      </trkpt>
+      <trkpt lat="40.143217" lon="-0.325128">
+        <ele>-236.8</ele>
+        <time>2005-06-04T15:33:01Z</time>
+      </trkpt>
+      <trkpt lat="40.143900" lon="-0.325913">
+        <ele>-236.8</ele>
+        <time>2005-06-04T15:33:03Z</time>
+      </trkpt>
+      <trkpt lat="40.144284" lon="-0.326331">
+        <ele>-236.8</ele>
+        <time>2005-06-04T15:33:05Z</time>
+      </trkpt>
+      <trkpt lat="40.144494" lon="-0.326431">
+        <ele>-236.8</ele>
+        <time>2005-06-04T15:33:06Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

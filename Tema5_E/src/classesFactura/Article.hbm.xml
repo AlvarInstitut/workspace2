@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 20/01/2016 13:49:47 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="classesFactura.Article" table="article">
+        <id name="codA" type="string">
+            <column name="cod_a" length="10" />
+            <generator class="assigned" />
+        </id>
+        <property name="descrip" type="string">
+            <column name="descrip" length="50" />
+        </property>
+        <property name="preu" type="big_decimal">
+            <column name="preu" precision="6" />
+        </property>
+        <property name="stock" type="java.lang.Short">
+            <column name="stock" precision="4" scale="0" />
+        </property>
+        <property name="stockMin" type="java.lang.Short">
+            <column name="stock_min" precision="4" scale="0" />
+        </property>
+        <set name="liniaFacs" table="linia_fac" inverse="true" lazy="true" fetch="select">
+            <key>
+                <column name="cod_a" length="10" not-null="true" />
+            </key>
+            <one-to-many class="classesFactura.LiniaFac" />
+        </set>
+    </class>
+</hibernate-mapping>

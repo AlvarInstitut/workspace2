@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="CompeGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.compegps.com">
+      <text>CompeGPS TEAM, SL</text>
+    </link>
+    <time>2010-04-22T11:14:18Z</time>
+    <bounds maxlat="40.141190" maxlon="-0.270577" minlat="40.138055" minlon="-0.274165"/>
+  </metadata>
+  <trk>
+    <name>badina-pont</name>
+    <desc>02/05/2005 0:21:46                 </desc>
+    <trkseg>
+      <trkpt lat="40.140868" lon="-0.274165">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:21:46Z</time>
+      </trkpt>
+      <trkpt lat="40.141190" lon="-0.273719">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:21:52Z</time>
+      </trkpt>
+      <trkpt lat="40.141186" lon="-0.273557">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:21:53Z</time>
+      </trkpt>
+      <trkpt lat="40.140973" lon="-0.273349">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:21:54Z</time>
+      </trkpt>
+      <trkpt lat="40.140677" lon="-0.273145">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:21:55Z</time>
+      </trkpt>
+      <trkpt lat="40.140380" lon="-0.272886">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:21:57Z</time>
+      </trkpt>
+      <trkpt lat="40.140166" lon="-0.272624">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:21:58Z</time>
+      </trkpt>
+      <trkpt lat="40.140072" lon="-0.272141">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:22:00Z</time>
+      </trkpt>
+      <trkpt lat="40.140065" lon="-0.271871">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:22:02Z</time>
+      </trkpt>
+      <trkpt lat="40.140054" lon="-0.271385">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:22:03Z</time>
+      </trkpt>
+      <trkpt lat="40.139883" lon="-0.271175">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:22:03Z</time>
+      </trkpt>
+      <trkpt lat="40.139752" lon="-0.270910">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:22:04Z</time>
+      </trkpt>
+      <trkpt lat="40.139539" lon="-0.270703">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:22:05Z</time>
+      </trkpt>
+      <trkpt lat="40.139080" lon="-0.270613">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:22:07Z</time>
+      </trkpt>
+      <trkpt lat="40.138622" lon="-0.270577">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:22:09Z</time>
+      </trkpt>
+      <trkpt lat="40.138250" lon="-0.270646">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:22:11Z</time>
+      </trkpt>
+      <trkpt lat="40.138087" lon="-0.270815">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:22:12Z</time>
+      </trkpt>
+      <trkpt lat="40.138055" lon="-0.271195">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:22:14Z</time>
+      </trkpt>
+      <trkpt lat="40.138064" lon="-0.271573">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:22:15Z</time>
+      </trkpt>
+      <trkpt lat="40.138112" lon="-0.271841">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:22:36Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

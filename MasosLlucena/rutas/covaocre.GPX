@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="CompeGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.compegps.com">
+      <text>CompeGPS TEAM, SL</text>
+    </link>
+    <time>2010-04-22T11:20:41Z</time>
+    <bounds maxlat="40.096852" maxlon="-0.271207" minlat="40.095441" minlon="-0.274021"/>
+  </metadata>
+  <trk>
+    <name>covaocre</name>
+    <desc>25/07/2005 19:22:03                </desc>
+    <trkseg>
+      <trkpt lat="40.095441" lon="-0.271437">
+        <ele>-236.8</ele>
+        <time>2005-07-25T17:22:03Z</time>
+      </trkpt>
+      <trkpt lat="40.095644" lon="-0.271212">
+        <ele>-236.8</ele>
+        <time>2005-07-25T17:22:04Z</time>
+      </trkpt>
+      <trkpt lat="40.095768" lon="-0.271207">
+        <ele>-236.8</ele>
+        <time>2005-07-25T17:22:06Z</time>
+      </trkpt>
+      <trkpt lat="40.095693" lon="-0.271535">
+        <ele>-236.8</ele>
+        <time>2005-07-25T17:22:07Z</time>
+      </trkpt>
+      <trkpt lat="40.095658" lon="-0.271807">
+        <ele>-236.8</ele>
+        <time>2005-07-25T17:22:07Z</time>
+      </trkpt>
+      <trkpt lat="40.095707" lon="-0.272129">
+        <ele>-236.8</ele>
+        <time>2005-07-25T17:22:09Z</time>
+      </trkpt>
+      <trkpt lat="40.095839" lon="-0.272448">
+        <ele>-236.8</ele>
+        <time>2005-07-25T17:22:10Z</time>
+      </trkpt>
+      <trkpt lat="40.095804" lon="-0.272719">
+        <ele>-236.8</ele>
+        <time>2005-07-25T17:22:11Z</time>
+      </trkpt>
+      <trkpt lat="40.095645" lon="-0.273050">
+        <ele>-236.8</ele>
+        <time>2005-07-25T17:22:13Z</time>
+      </trkpt>
+      <trkpt lat="40.095611" lon="-0.273376">
+        <ele>-236.8</ele>
+        <time>2005-07-25T17:22:14Z</time>
+      </trkpt>
+      <trkpt lat="40.095618" lon="-0.273647">
+        <ele>-236.8</ele>
+        <time>2005-07-25T17:22:15Z</time>
+      </trkpt>
+      <trkpt lat="40.095710" lon="-0.274021">
+        <ele>-236.8</ele>
+        <time>2005-07-25T17:22:16Z</time>
+      </trkpt>
+      <trkpt lat="40.095958" lon="-0.273956">
+        <ele>-236.8</ele>
+        <time>2005-07-25T17:22:17Z</time>
+      </trkpt>
+      <trkpt lat="40.096248" lon="-0.273946">
+        <ele>-236.8</ele>
+        <time>2005-07-25T17:22:19Z</time>
+      </trkpt>
+      <trkpt lat="40.096533" lon="-0.273663">
+        <ele>-236.8</ele>
+        <time>2005-07-25T17:22:20Z</time>
+      </trkpt>
+      <trkpt lat="40.096612" lon="-0.273498">
+        <ele>-236.8</ele>
+        <time>2005-07-25T17:22:21Z</time>
+      </trkpt>
+      <trkpt lat="40.096774" lon="-0.273330">
+        <ele>-236.8</ele>
+        <time>2005-07-25T17:22:22Z</time>
+      </trkpt>
+      <trkpt lat="40.096812" lon="-0.273167">
+        <ele>-236.8</ele>
+        <time>2005-07-25T17:22:23Z</time>
+      </trkpt>
+      <trkpt lat="40.096852" lon="-0.273110">
+        <ele>-236.8</ele>
+        <time>2005-07-25T17:22:25Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

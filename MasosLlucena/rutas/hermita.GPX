@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="CompeGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.compegps.com">
+      <text>CompeGPS TEAM, SL</text>
+    </link>
+    <time>2010-04-23T09:32:22Z</time>
+    <bounds maxlat="40.197251" maxlon="-0.227253" minlat="40.196082" minlon="-0.227515"/>
+  </metadata>
+  <trk>
+    <name>hermita</name>
+    <desc>16/05/2005 20:04:19                </desc>
+    <trkseg>
+      <trkpt lat="40.197251" lon="-0.227515">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:04:19Z</time>
+      </trkpt>
+      <trkpt lat="40.197037" lon="-0.227253">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:04:20Z</time>
+      </trkpt>
+      <trkpt lat="40.196082" lon="-0.227293">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:04:23Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

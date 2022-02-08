@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="CompeGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.compegps.com">
+      <text>CompeGPS TEAM, SL</text>
+    </link>
+    <time>2010-04-23T14:50:45Z</time>
+    <bounds maxlat="40.164663" maxlon="-0.239573" minlat="40.164188" minlon="-0.240975"/>
+  </metadata>
+  <trk>
+    <name>tarsilo</name>
+    <desc>09/05/2005 22:05:41                </desc>
+    <trkseg>
+      <trkpt lat="40.164188" lon="-0.239573">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:05:41Z</time>
+      </trkpt>
+      <trkpt lat="40.164486" lon="-0.239886">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:05:42Z</time>
+      </trkpt>
+      <trkpt lat="40.164663" lon="-0.240311">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:05:42Z</time>
+      </trkpt>
+      <trkpt lat="40.164630" lon="-0.240691">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:05:43Z</time>
+      </trkpt>
+      <trkpt lat="40.164429" lon="-0.240970">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:05:45Z</time>
+      </trkpt>
+      <trkpt lat="40.164304" lon="-0.240975">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:05:45Z</time>
+      </trkpt>
+      <trkpt lat="40.164304" lon="-0.240975">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:05:46Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

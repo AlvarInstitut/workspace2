@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="CompeGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.compegps.com">
+      <text>CompeGPS TEAM, SL</text>
+    </link>
+    <time>2010-04-22T11:22:04Z</time>
+    <bounds maxlat="40.231509" maxlon="-0.234393" minlat="40.220503" minlon="-0.242789"/>
+  </metadata>
+  <trk>
+    <name>cv171-llach</name>
+    <desc>24/03/2005 22:18:27                </desc>
+    <trkseg>
+      <trkpt lat="40.230561" lon="-0.234393">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:18:27Z</time>
+      </trkpt>
+      <trkpt lat="40.229946" lon="-0.234743">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:18:31Z</time>
+      </trkpt>
+      <trkpt lat="40.229868" lon="-0.235017">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:18:32Z</time>
+      </trkpt>
+      <trkpt lat="40.229798" lon="-0.235507">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:18:37Z</time>
+      </trkpt>
+      <trkpt lat="40.229641" lon="-0.235947">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:18:38Z</time>
+      </trkpt>
+      <trkpt lat="40.229568" lon="-0.236329">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:18:39Z</time>
+      </trkpt>
+      <trkpt lat="40.229511" lon="-0.237415">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:18:43Z</time>
+      </trkpt>
+      <trkpt lat="40.229567" lon="-0.238008">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:18:44Z</time>
+      </trkpt>
+      <trkpt lat="40.229783" lon="-0.238433">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:18:45Z</time>
+      </trkpt>
+      <trkpt lat="40.229836" lon="-0.238864">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:18:47Z</time>
+      </trkpt>
+      <trkpt lat="40.230097" lon="-0.239499">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:19:04Z</time>
+      </trkpt>
+      <trkpt lat="40.230564" lon="-0.239913">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:19:06Z</time>
+      </trkpt>
+      <trkpt lat="40.230744" lon="-0.240448">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:19:07Z</time>
+      </trkpt>
+      <trkpt lat="40.231165" lon="-0.240647">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:19:10Z</time>
+      </trkpt>
+      <trkpt lat="40.231509" lon="-0.241121">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:19:12Z</time>
+      </trkpt>
+      <trkpt lat="40.231317" lon="-0.241778">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:19:14Z</time>
+      </trkpt>
+      <trkpt lat="40.231327" lon="-0.242211">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:19:15Z</time>
+      </trkpt>
+      <trkpt lat="40.231020" lon="-0.241574">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:19:17Z</time>
+      </trkpt>
+      <trkpt lat="40.230891" lon="-0.241362">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:19:20Z</time>
+      </trkpt>
+      <trkpt lat="40.230724" lon="-0.241315">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:19:21Z</time>
+      </trkpt>
+      <trkpt lat="40.230263" lon="-0.241171">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:19:22Z</time>
+      </trkpt>
+      <trkpt lat="40.229800" lon="-0.240919">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:19:23Z</time>
+      </trkpt>
+      <trkpt lat="40.229295" lon="-0.240723">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:19:25Z</time>
+      </trkpt>
+      <trkpt lat="40.228911" lon="-0.240251">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:19:26Z</time>
+      </trkpt>
+      <trkpt lat="40.228533" lon="-0.240104">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:19:27Z</time>
+      </trkpt>
+      <trkpt lat="40.228238" lon="-0.239900">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:19:28Z</time>
+      </trkpt>
+      <trkpt lat="40.227863" lon="-0.239861">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:19:35Z</time>
+      </trkpt>
+      <trkpt lat="40.227336" lon="-0.240478">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:20:47Z</time>
+      </trkpt>
+      <trkpt lat="40.227101" lon="-0.241083">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:20:48Z</time>
+      </trkpt>
+      <trkpt lat="40.227075" lon="-0.241734">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:20:51Z</time>
+      </trkpt>
+      <trkpt lat="40.226915" lon="-0.241957">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:20:52Z</time>
+      </trkpt>
+      <trkpt lat="40.226842" lon="-0.242393">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:20:53Z</time>
+      </trkpt>
+      <trkpt lat="40.226642" lon="-0.242726">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:20:55Z</time>
+      </trkpt>
+      <trkpt lat="40.226435" lon="-0.242789">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:20:58Z</time>
+      </trkpt>
+      <trkpt lat="40.226548" lon="-0.242297">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:20:59Z</time>
+      </trkpt>
+      <trkpt lat="40.226452" lon="-0.241759">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:21:00Z</time>
+      </trkpt>
+      <trkpt lat="40.226356" lon="-0.241222">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:21:01Z</time>
+      </trkpt>
+      <trkpt lat="40.226180" lon="-0.240795">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:21:07Z</time>
+      </trkpt>
+      <trkpt lat="40.225800" lon="-0.240540">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:21:09Z</time>
+      </trkpt>
+      <trkpt lat="40.225543" lon="-0.240226">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:21:10Z</time>
+      </trkpt>
+      <trkpt lat="40.225328" lon="-0.239909">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:21:11Z</time>
+      </trkpt>
+      <trkpt lat="40.225073" lon="-0.239703">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:21:12Z</time>
+      </trkpt>
+      <trkpt lat="40.224613" lon="-0.239559">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:21:19Z</time>
+      </trkpt>
+      <trkpt lat="40.224373" lon="-0.239948">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:21:21Z</time>
+      </trkpt>
+      <trkpt lat="40.224135" lon="-0.240445">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:21:42Z</time>
+      </trkpt>
+      <trkpt lat="40.223764" lon="-0.240569">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:21:43Z</time>
+      </trkpt>
+      <trkpt lat="40.223218" lon="-0.240320">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:21:44Z</time>
+      </trkpt>
+      <trkpt lat="40.222712" lon="-0.240016">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:21:45Z</time>
+      </trkpt>
+      <trkpt lat="40.222121" lon="-0.239661">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:21:47Z</time>
+      </trkpt>
+      <trkpt lat="40.221616" lon="-0.239252">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:22:19Z</time>
+      </trkpt>
+      <trkpt lat="40.221319" lon="-0.238994">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:22:20Z</time>
+      </trkpt>
+      <trkpt lat="40.220947" lon="-0.239063">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:22:22Z</time>
+      </trkpt>
+      <trkpt lat="40.220661" lon="-0.239291">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:22:22Z</time>
+      </trkpt>
+      <trkpt lat="40.220503" lon="-0.239780">
+        <ele>-236.8</ele>
+        <time>2005-03-24T21:22:57Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

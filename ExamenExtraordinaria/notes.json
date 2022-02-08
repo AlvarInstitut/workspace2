@@ -1,0 +1,13 @@
+{"alumnes":
+	[
+		{ "nom":"Albert" ,
+		  "notes" : [4,6]
+		} ,
+		{ "nom":"Bernat" ,
+		  "notes" : [6,8,10]
+		} ,
+		{ "nom":"Claudia" ,
+		  "notes" : [5,7,9]
+		} 
+	]
+}

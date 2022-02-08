@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="CompeGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.compegps.com">
+      <text>CompeGPS TEAM, SL</text>
+    </link>
+    <time>2010-04-23T14:50:57Z</time>
+    <bounds maxlat="40.206881" maxlon="-0.223199" minlat="40.202175" minlon="-0.228853"/>
+  </metadata>
+  <trk>
+    <name>timo</name>
+    <desc>16/05/2005 20:08:37                </desc>
+    <trkseg>
+      <trkpt lat="40.202175" lon="-0.223199">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:08:37Z</time>
+      </trkpt>
+      <trkpt lat="40.202335" lon="-0.224655">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:08:39Z</time>
+      </trkpt>
+      <trkpt lat="40.202366" lon="-0.225952">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:08:41Z</time>
+      </trkpt>
+      <trkpt lat="40.202886" lon="-0.226851">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:08:43Z</time>
+      </trkpt>
+      <trkpt lat="40.203191" lon="-0.227434">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:08:44Z</time>
+      </trkpt>
+      <trkpt lat="40.203742" lon="-0.227899">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:08:45Z</time>
+      </trkpt>
+      <trkpt lat="40.204044" lon="-0.228374">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:08:46Z</time>
+      </trkpt>
+      <trkpt lat="40.205631" lon="-0.228688">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:08:48Z</time>
+      </trkpt>
+      <trkpt lat="40.206881" lon="-0.228853">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:08:50Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

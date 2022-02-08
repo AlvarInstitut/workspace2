@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated 14-jun-2016 18:16:48 by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="classesVideoClub.Client" table="client" schema="public" optimistic-lock="version">
+        <id name="dni" type="string">
+            <column name="dni" length="10" />
+            <generator class="assigned" />
+        </id>
+        <property name="nom" type="string">
+            <column name="nom" length="50" />
+        </property>
+        <property name="telefon" type="string">
+            <column name="telefon" length="10" />
+        </property>
+        <property name="adreca" type="string">
+            <column name="adreca" length="50" />
+        </property>
+        <property name="poblacio" type="string">
+            <column name="poblacio" length="50" />
+        </property>
+        <set name="lloguers" table="lloguer" inverse="true" lazy="true" fetch="select">
+            <key>
+                <column name="dni" length="10" />
+            </key>
+            <one-to-many class="classesVideoClub.Lloguer" />
+        </set>
+    </class>
+</hibernate-mapping>

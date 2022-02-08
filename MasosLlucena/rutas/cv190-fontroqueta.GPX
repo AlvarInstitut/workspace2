@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="CompeGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.compegps.com">
+      <text>CompeGPS TEAM, SL</text>
+    </link>
+    <time>2010-04-22T11:23:01Z</time>
+    <bounds maxlat="40.139722" maxlon="-0.306824" minlat="40.138923" minlon="-0.308240"/>
+  </metadata>
+  <trk>
+    <name>cv190-fontroqueta</name>
+    <desc>09/04/2005 21:52:32                </desc>
+    <trkseg>
+      <trkpt lat="40.139722" lon="-0.306824">
+        <ele>-236.8</ele>
+        <time>2005-04-09T19:52:32Z</time>
+      </trkpt>
+      <trkpt lat="40.139607" lon="-0.307261">
+        <ele>-236.8</ele>
+        <time>2005-04-09T19:52:34Z</time>
+      </trkpt>
+      <trkpt lat="40.139490" lon="-0.307590">
+        <ele>-236.8</ele>
+        <time>2005-04-09T19:52:35Z</time>
+      </trkpt>
+      <trkpt lat="40.139497" lon="-0.307860">
+        <ele>-236.8</ele>
+        <time>2005-04-09T19:52:38Z</time>
+      </trkpt>
+      <trkpt lat="40.139464" lon="-0.308240">
+        <ele>-236.8</ele>
+        <time>2005-04-09T19:52:40Z</time>
+      </trkpt>
+      <trkpt lat="40.139294" lon="-0.308085">
+        <ele>-236.8</ele>
+        <time>2005-04-09T19:52:42Z</time>
+      </trkpt>
+      <trkpt lat="40.139209" lon="-0.307980">
+        <ele>-236.8</ele>
+        <time>2005-04-09T19:52:44Z</time>
+      </trkpt>
+      <trkpt lat="40.139004" lon="-0.308096">
+        <ele>-236.8</ele>
+        <time>2005-04-09T19:52:47Z</time>
+      </trkpt>
+      <trkpt lat="40.138923" lon="-0.308208">
+        <ele>-236.8</ele>
+        <time>2005-04-09T19:52:49Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

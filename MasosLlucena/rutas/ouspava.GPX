@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="CompeGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.compegps.com">
+      <text>CompeGPS TEAM, SL</text>
+    </link>
+    <time>2010-04-23T09:38:17Z</time>
+    <bounds maxlat="40.160621" maxlon="-0.248433" minlat="40.159641" minlon="-0.250907"/>
+  </metadata>
+  <trk>
+    <name>ouspava</name>
+    <desc>02/05/2005 0:45:11                 </desc>
+    <trkseg>
+      <trkpt lat="40.160621" lon="-0.248433">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:45:11Z</time>
+      </trkpt>
+      <trkpt lat="40.160466" lon="-0.248926">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:45:17Z</time>
+      </trkpt>
+      <trkpt lat="40.160229" lon="-0.249423">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:45:18Z</time>
+      </trkpt>
+      <trkpt lat="40.160155" lon="-0.249804">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:45:21Z</time>
+      </trkpt>
+      <trkpt lat="40.159836" lon="-0.250358">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:45:23Z</time>
+      </trkpt>
+      <trkpt lat="40.159641" lon="-0.250907">
+        <ele>-236.8</ele>
+        <time>2005-05-01T22:45:25Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

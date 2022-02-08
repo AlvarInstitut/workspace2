@@ -1,0 +1,7571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<masos>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Molino Evaristo</BANDO>
+		<registre1893>1267 Masia Batan Evaristo</registre1893>
+		<img_foto>img\ros moli 1.JPG</img_foto>
+		<img_foto2>img\ros moli 2.JPG</img_foto2>
+		<img_foto3>img\ros moli 3.JPG</img_foto3>
+		<img_foto4>img\ros moli 4.JPG</img_foto4>
+		<img_foto5>img\ros moli.JPG</img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Molí del Ros</NOMP>
+		<WAY>M21</WAY>
+		<NOM>ROS.M</NOM>
+		<QUE>Masos</QUE>
+		<X>731080</X>
+		<Y>4450834</Y>
+		<Z>525</Z>
+		<PADRO></PADRO>
+		<FOTOS>Molí el Ros (de Evaristo)</FOTOS>
+		<TNE>Masia Galapa</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Molí del Ros</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[molílrós]</TRANSC>
+		<CLAU>20205</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>6'2 Km  3 casas Molino de Evaristo</NOMENCLATOR>
+		<NORMAL>Molí del Ros</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>11</id>
+		<lat>40.174252</lat>
+		<lon>-0.287466</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Galapo</BANDO>
+		<registre1893>1253 Masia del Galapo, 149, Galapo, de Galapo</registre1893>
+		<img_foto>img\galapo.JPG</img_foto>
+		<img_foto2>img\galapo 1.JPG</img_foto2>
+		<img_foto3>img\galapo 2.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Galapo</NOMP>
+		<WAY>M27</WAY>
+		<NOM>GALAPO</NOM>
+		<QUE>Masos</QUE>
+		<X>730854</X>
+		<Y>4450318</Y>
+		<Z>549</Z>
+		<PADRO>Galapo</PADRO>
+		<FOTOS>Galapo</FOTOS>
+		<TNE>Masia Llorens</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Galapo</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelgalápo]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>Mas del Galapo</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>14</id>
+		<lat>40.169671</lat>
+		<lon>-0.290302</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Bernús</BANDO>
+		<registre1893>1280 Masia de Bernús 121,118</registre1893>
+		<img_foto>img\Bernus.JPG</img_foto>
+		<img_foto2>img\bernus 1.JPG</img_foto2>
+		<img_foto3>img\bernus 2.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Bernús</NOMP>
+		<WAY>M18</WAY>
+		<NOM>BERNUS</NOM>
+		<QUE>Masos</QUE>
+		<X>729720</X>
+		<Y>4453468</Y>
+		<Z>995</Z>
+		<PADRO>Bernús</PADRO>
+		<FOTOS>Bernús</FOTOS>
+		<TNE>Masia Vernus</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Vernús</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdebernús]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>15 Km  11 casas Masía de Bernús</NOMENCLATOR>
+		<NORMAL>Mas de Vernús</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>16</id>
+		<lat>40.19833</lat>
+		<lon>-0.302482</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Saranto</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\saranto.JPG</img_foto>
+		<img_foto2>img\saranto-1.JPG</img_foto2>
+		<img_foto3>img\saranto-2.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Saranto</NOMP>
+		<WAY>M40</WAY>
+		<NOM>SARANTO</NOM>
+		<QUE>Masos</QUE>
+		<X>729165</X>
+		<Y>4450712</Y>
+		<Z>913</Z>
+		<PADRO>Saranto</PADRO>
+		<FOTOS>Saranto</FOTOS>
+		<TNE>Mas del Saranto</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Saranto</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>Mas del Saranto</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>17</id>
+		<lat>40.1736762</lat>
+		<lon>-0.3099747</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Simó</BANDO>
+		<registre1893>1097 Masia Simó, de Simó</registre1893>
+		<img_foto>img\simo.JPG</img_foto>
+		<img_foto2>img\simo 1.JPG</img_foto2>
+		<img_foto3>img\simo desde bernat.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Simó</NOMP>
+		<WAY>M24</WAY>
+		<NOM>SIMO</NOM>
+		<QUE>Masos</QUE>
+		<X>731962</X>
+		<Y>4453120</Y>
+		<Z>913</Z>
+		<PADRO>Simó</PADRO>
+		<FOTOS>Simó</FOTOS>
+		<TNE>Masia Simó</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Simó</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdesimó]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>15'3 Km   4 casas Masía de Simó</NOMENCLATOR>
+		<NORMAL>Mas de Simó</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>18</id>
+		<lat>40.194581</lat>
+		<lon>-0.276296</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Miralba</BANDO>
+		<registre1893>1300 Masia de Miralba</registre1893>
+		<img_foto>img\xiron.JPG</img_foto>
+		<img_foto2>img\xiron 1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Xirón</NOMP>
+		<WAY>M13</WAY>
+		<NOM>XIRON</NOM>
+		<QUE>Masos</QUE>
+		<X>728757</X>
+		<Y>4452580</Y>
+		<Z>1158</Z>
+		<PADRO></PADRO>
+		<FOTOS>Xirón</FOTOS>
+		<TNE>Masia Xirón</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Quirón</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdekirón]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>Mas de Quirón</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>19</id>
+		<lat>40.190601</lat>
+		<lon>-0.314099</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Sabater</BANDO>
+		<registre1893>1301 Masia del Sabater, 55  -  Masia Sabater</registre1893>
+		<img_foto>img\nofoto.png</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Sabater</NOMP>
+		<WAY>M12</WAY>
+		<NOM>SABATE</NOM>
+		<QUE>Masos</QUE>
+		<X>728479</X>
+		<Y>4451837</Y>
+		<Z>1183</Z>
+		<PADRO>Sabater</PADRO>
+		<FOTOS>Sabater</FOTOS>
+		<TNE>Masia Sabater</TNE>
+		<MAP>592-IV</MAP>
+		<OBS>Col·loquialment la r final s'enmudix.</OBS>
+		<TOPONIM>Mas del Sabater</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelsabaté]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>15 Km 6 casas Masia de Sabater</NOMENCLATOR>
+		<NORMAL>Mas del Sabater</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>20</id>
+		<lat>40.18399</lat>
+		<lon>-0.317625</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Palanques</BANDO>
+		<registre1893>1082 Masia Palanques, de Palanques</registre1893>
+		<img_foto>img\palanques.JPG</img_foto>
+		<img_foto2>img\palanques 1.JPG</img_foto2>
+		<img_foto3>img\palanques 2.JPG</img_foto3>
+		<img_foto4>img\palanques 3.JPG</img_foto4>
+		<img_foto5>img\palanques 4.JPG</img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Palanques</NOMP>
+		<WAY>M26</WAY>
+		<NOM>PALANQUES</NOM>
+		<QUE>Masos</QUE>
+		<X>732305</X>
+		<Y>4452871</Y>
+		<Z>906</Z>
+		<PADRO>Palanques</PADRO>
+		<FOTOS>Palanques</FOTOS>
+		<TNE>Mas de Palanques</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Palanques</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdepalánkes]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>15 Km 8 casas Masía de Palánques</NOMENCLATOR>
+		<NORMAL>Mas de Palanques</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>22</id>
+		<lat>40.192246</lat>
+		<lon>-0.27236</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Casanova</BANDO>
+		<registre1893>1103 Masia Casanova, 241, de la Casanova</registre1893>
+		<img_foto>img\casanova.JPG</img_foto>
+		<img_foto2>img\casanova1-1.JPG</img_foto2>
+		<img_foto3>img\casanova1-2.JPG</img_foto3>
+		<img_foto4>img\casanova1.JPG</img_foto4>
+		<img_foto5>img\casanova 1.JPG</img_foto5>
+		<img_foto6>img\casanova 2.JPG</img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Casa Nova</NOMP>
+		<WAY>M23</WAY>
+		<NOM>CASANOVA</NOM>
+		<QUE>Masos</QUE>
+		<X>731752</X>
+		<Y>4453447</Y>
+		<Z>902</Z>
+		<PADRO>Casa Nova</PADRO>
+		<FOTOS>Casa Nova</FOTOS>
+		<TNE>Masia Casanova</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>la Casa Nova</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[lakázanòba]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>17'5 Km  4 casas Masía de Casanova</NOMENCLATOR>
+		<NORMAL>Casa Nova</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>23</id>
+		<lat>40.197582</lat>
+		<lon>-0.278642</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Fós</BANDO>
+		<registre1893>1270 Masia de la Fós 130,131,132</registre1893>
+		<img_foto>img\fos.JPG</img_foto>
+		<img_foto2>img\fos 1.JPG</img_foto2>
+		<img_foto3>img\fos 2.JPG</img_foto3>
+		<img_foto4>img\fos 3.JPG</img_foto4>
+		<img_foto5>img\fos 5.JPG</img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Fos</NOMP>
+		<WAY>M34</WAY>
+		<NOM>FOS</NOM>
+		<QUE>Masos</QUE>
+		<X>730505</X>
+		<Y>4452535</Y>
+		<Z>738</Z>
+		<PADRO>La Fos</PADRO>
+		<FOTOS>La Fos</FOTOS>
+		<TNE>Masia de la Fos</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de la Fos</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelafós]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>12'5 Km  2 casas Masía de la Fos</NOMENCLATOR>
+		<NORMAL>Mas de la Foç</NORMAL>
+		<COMENTARIS>Barreda Edo, per a Benassal, dóna la grafia Foç, que també arreplega l'Onomasticon juntament amb Fos.</COMENTARIS>
+		<id>24</id>
+		<lat>40.189718</lat>
+		<lon>-0.293603</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Miret</BANDO>
+		<registre1893>1362 Masia de Miret de Moltó, del Moltó</registre1893>
+		<img_foto>img\mollot.JPG</img_foto>
+		<img_foto2>img\mollot 1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Miret de Moltó</NOMP>
+		<WAY>M7</WAY>
+		<NOM>MIRET</NOM>
+		<QUE>Masos</QUE>
+		<X>727148</X>
+		<Y>4451227</Y>
+		<Z>1094</Z>
+		<PADRO>Miret</PADRO>
+		<FOTOS>Miret</FOTOS>
+		<TNE>Masia Mollot</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Mollot</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>17'5 Km 2 casas Caseta del Moltó</NOMENCLATOR>
+		<NORMAL>Mas de Mollot</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>30</id>
+		<lat>40.178862</lat>
+		<lon>-0.333458</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Samaruch</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\samaruc.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Casa del Samaruc</NOMP>
+		<WAY>M5</WAY>
+		<NOM>SAMARUC</NOM>
+		<QUE>Masos</QUE>
+		<X>726451</X>
+		<Y>4451651</Y>
+		<Z>1024</Z>
+		<PADRO>Samaruc</PADRO>
+		<FOTOS>Samaruc</FOTOS>
+		<TNE>Masia Samaruc</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Casa del Samaruc</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[kázalsamarúk]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>Casa del Samaruc</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>41</id>
+		<lat>40.182866</lat>
+		<lon>-0.341487</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Polit</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\polit.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Polit</NOMP>
+		<WAY>M22</WAY>
+		<NOM>POLIT</NOM>
+		<QUE>Masos</QUE>
+		<X>729055</X>
+		<Y>4453800</Y>
+		<Z>1060</Z>
+		<PADRO>Polit</PADRO>
+		<FOTOS>Polit</FOTOS>
+		<TNE>Masia Polit</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>el Polit</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[elpolít]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>el Polit</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>44</id>
+		<lat>40.201499</lat>
+		<lon>-0.310168</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Masia Talaya</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\talaia.JPG</img_foto>
+		<img_foto2>img\talaia 1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Talaia</NOMP>
+		<WAY>M17</WAY>
+		<NOM>TALAIA</NOM>
+		<QUE>Masos</QUE>
+		<X>731841</X>
+		<Y>4451174</Y>
+		<Z>921</Z>
+		<PADRO>Talaia</PADRO>
+		<FOTOS>Talaia</FOTOS>
+		<TNE>Mas de L'Atalaya</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de la Talaia</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelataláya]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>10 Km  2 casas Masía de la Talaya</NOMENCLATOR>
+		<NORMAL>Mas de la Talaia</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>47</id>
+		<lat>40.177103</lat>
+		<lon>-0.278416</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Peregrinet</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\peregrinet.JPG</img_foto>
+		<img_foto2>img\peregrinet-1.JPG</img_foto2>
+		<img_foto3>img\peregrinet1.JPG</img_foto3>
+		<img_foto4>img\peregrinet1-1.JPG</img_foto4>
+		<img_foto5>img\peregrinet1-2.JPG</img_foto5>
+		<img_foto6>img\peregrinet1-3.JPG</img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Peregrinet</NOMP>
+		<WAY>M252</WAY>
+		<NOM>PEREGRINET</NOM>
+		<QUE>Masos</QUE>
+		<X>729654</X>
+		<Y>4451621</Y>
+		<Z>905</Z>
+		<PADRO>Peregrinet</PADRO>
+		<FOTOS>Peregrinet</FOTOS>
+		<TNE></TNE>
+		<MAP>592-IV</MAP>
+		<OBS>De Pelegri (Costa)</OBS>
+		<TOPONIM>Mas de Maria o de Pelegrí</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdemaría]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>10 Km 2 casas Masía de Pelegrin Olária</NOMENCLATOR>
+		<NORMAL>Mas de Pelegrí</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>49</id>
+		<lat>40.181726</lat>
+		<lon>-0.303915</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Masia Talayeta</BANDO>
+		<registre1893>1112 Masia de la Talayeta 259, 260, 261</registre1893>
+		<img_foto>img\talaieta.JPG</img_foto>
+		<img_foto2>img\talaieta 1.JPG</img_foto2>
+		<img_foto3>img\talaieta 2.JPG</img_foto3>
+		<img_foto4>img\talaieta 3.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Talaieta</NOMP>
+		<WAY>M29</WAY>
+		<NOM>TALAIETA</NOM>
+		<QUE>Masos</QUE>
+		<X>731400</X>
+		<Y>4451753</Y>
+		<Z>871</Z>
+		<PADRO>Talaieta</PADRO>
+		<FOTOS>Talaieta</FOTOS>
+		<TNE>Mas de la Cabra</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>la Talaieta</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[latalayéta]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>12'5 Km  2 casas Masía de la Talayeta</NOMENCLATOR>
+		<NORMAL>la Talaieta</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>51</id>
+		<lat>40.182435</lat>
+		<lon>-0.283382</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Olaria</BANDO>
+		<registre1893>1310 Masia de Olaria, 91,155,192, Masia Olaria</registre1893>
+		<img_foto>img\olaria-1.JPG</img_foto>
+		<img_foto2>img\olaria-2.JPG</img_foto2>
+		<img_foto3>img\olaria-r-1.JPG</img_foto3>
+		<img_foto4>img\olaria-r-2.JPG</img_foto4>
+		<img_foto5>img\olaria-r-3.JPG</img_foto5>
+		<img_foto6>img\olaria-r-5.JPG</img_foto6>
+		<img_foto7>img\olaria-r-4.JPG</img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas d'Olària</NOMP>
+		<WAY>M36</WAY>
+		<NOM>OLARIA</NOM>
+		<QUE>Masos</QUE>
+		<X>729285</X>
+		<Y>4452172</Y>
+		<Z>1000</Z>
+		<PADRO>Olaria</PADRO>
+		<FOTOS>Olaria</FOTOS>
+		<TNE>Mas de Olaria</TNE>
+		<MAP>592-IV</MAP>
+		<OBS>Mas d'Olària de Dalt, diu 13 cases, incluirie els masos de: Font Podrida, Mentirola, i Peregrinet?</OBS>
+		<TOPONIM>Mas d'Olària</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdolária]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>12'5 Km  13 casas Masía de Olaria de dalt</NOMENCLATOR>
+		<NORMAL>Mas d'Olària</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>52</id>
+		<lat>40.186783</lat>
+		<lon>-0.3080499</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Canaleta</BANDO>
+		<registre1893>1297 Partida de la Canaleta, Masia Canaleta</registre1893>
+		<img_foto>img\canaleta.JPG</img_foto>
+		<img_foto2>img\canaleta 1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Canaleta</NOMP>
+		<WAY>M19</WAY>
+		<NOM>CANALETA</NOM>
+		<QUE>Masos</QUE>
+		<X>729123</X>
+		<Y>4452937</Y>
+		<Z>1039</Z>
+		<PADRO>Canaleta</PADRO>
+		<FOTOS>Canaleta</FOTOS>
+		<TNE>Masia Canaleta</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>la Canaleta</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>13'1 Km  2 casas Masía de la Canaleta</NOMENCLATOR>
+		<NORMAL>la Canaleta</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>53</id>
+		<lat>40.193714</lat>
+		<lon>-0.309677</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26/08/2005</FECHA>
+		<BANDO>Aldua</BANDO>
+		<registre1893>1376 Masia Aldúa, Masia de la Aldúa, 14</registre1893>
+		<img_foto>img\aldua.JPG</img_foto>
+		<img_foto2>img\aldua-1.JPG</img_foto2>
+		<img_foto3>img\aldua-2.JPG</img_foto3>
+		<img_foto4>img\aldua-3.JPG</img_foto4>
+		<img_foto5>img\aldua-4.JPG</img_foto5>
+		<img_foto6>img\aldua-5.JPG</img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de l'Aldua</NOMP>
+		<WAY>M4</WAY>
+		<NOM>ALDUA</NOM>
+		<QUE>Masos</QUE>
+		<X>725730</X>
+		<Y>4450555</Y>
+		<Z>939</Z>
+		<PADRO>Aldua</PADRO>
+		<FOTOS>Aldua</FOTOS>
+		<TNE>Masia de la Aldea</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de l'Aldua</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelaldúa]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>15 Km  13 casas Masía del Aldúa</NOMENCLATOR>
+		<NORMAL>Mas de l'Aldua</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>54</id>
+		<lat>40.173196</lat>
+		<lon>-0.350331</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Umbria</BANDO>
+		<registre1893>1109 Masia de la Umbria</registre1893>
+		<img_foto>img\umbria.JPG</img_foto>
+		<img_foto2>img\umbria 1.JPG</img_foto2>
+		<img_foto3>img\umbria 4.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de l'Ombria</NOMP>
+		<WAY>M25</WAY>
+		<NOM>UMBRIA</NOM>
+		<QUE>Masos</QUE>
+		<X>731342</X>
+		<Y>4452834</Y>
+		<Z>737</Z>
+		<PADRO>Ombria</PADRO>
+		<FOTOS>Ombria</FOTOS>
+		<TNE>Mas de la Umbria</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de l'Ombria</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelaombría]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>10 Km  2 casas Masía de la Umbria</NOMENCLATOR>
+		<NORMAL>Mas de l'Ombria</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>55</id>
+		<lat>40.192179</lat>
+		<lon>-0.283674</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Mª Cabra</BANDO>
+		<registre1893>1266 Masia Cabra</registre1893>
+		<img_foto>img\cabra.JPG</img_foto>
+		<img_foto2>img\cabra 1.JPG</img_foto2>
+		<img_foto3>img\cabra 2.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Cabra</NOMP>
+		<WAY>M28</WAY>
+		<NOM>CABRA</NOM>
+		<QUE>Masos</QUE>
+		<X>731078</X>
+		<Y>4450578</Y>
+		<Z>538</Z>
+		<PADRO>Cabra</PADRO>
+		<FOTOS>Cabra</FOTOS>
+		<TNE></TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de la Cabra</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelakábra]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>7'5 Km  1 casa Masía de la Cabra</NOMENCLATOR>
+		<NORMAL>Mas de la Cabra</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>56</id>
+		<lat>40.171949</lat>
+		<lon>-0.287581</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Costa</BANDO>
+		<registre1893>1332 Masia de la Costa, 72,81, Masia Costa</registre1893>
+		<img_foto>img\costa.JPG</img_foto>
+		<img_foto2>img\costa-1.JPG</img_foto2>
+		<img_foto3>img\costa-3.JPG</img_foto3>
+		<img_foto4>img\costa-4.JPG</img_foto4>
+		<img_foto5>img\costa-5.JPG</img_foto5>
+		<img_foto6>img\costa escola i venta.JPG</img_foto6>
+		<img_foto7>img\costa-r.JPG</img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Costa</NOMP>
+		<WAY>M39</WAY>
+		<NOM>COSTA</NOM>
+		<QUE>Masos</QUE>
+		<X>729630</X>
+		<Y>4450759</Y>
+		<Z>972</Z>
+		<PADRO>Costa</PADRO>
+		<FOTOS>Costa</FOTOS>
+		<TNE>Mas de la Costa</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de la Costa</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelakòsta]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>8'7 Km 9 casas Masía de la Costa</NOMENCLATOR>
+		<NORMAL>Mas de la Costa</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>57</id>
+		<lat>40.173975</lat>
+		<lon>-0.304504</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Font Blanca</BANDO>
+		<registre1893>1277 Masia de la Font Blanca</registre1893>
+		<img_foto>img\font blanca.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Font Blanca</NOMP>
+		<WAY>M14</WAY>
+		<NOM>FONTBLANCA</NOM>
+		<QUE>Masos</QUE>
+		<X>728641</X>
+		<Y>4453704</Y>
+		<Z>1130</Z>
+		<PADRO>Font Blanca</PADRO>
+		<FOTOS>Font Blanca</FOTOS>
+		<TNE>Masia de la Font Blanca</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de la Font Blanca</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelafònblánka]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>17'5      1 casa      Masia de la Font Blanca</NOMENCLATOR>
+		<NORMAL>Mas de la Font Blanca</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>58</id>
+		<lat>40.200748</lat>
+		<lon>-0.315061</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Orés</BANDO>
+		<registre1893>1348 Masia Orés 72</registre1893>
+		<img_foto>img\ores.JPG</img_foto>
+		<img_foto2>img\ores-1.JPG</img_foto2>
+		<img_foto3>img\ores-2.JPG</img_foto3>
+		<img_foto4>img\ores-3.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas d'Orés</NOMP>
+		<WAY>M11</WAY>
+		<NOM>ORES</NOM>
+		<QUE>Masos</QUE>
+		<X>728602</X>
+		<Y>4451138</Y>
+		<Z>1002</Z>
+		<PADRO>Orés</PADRO>
+		<FOTOS>Orés</FOTOS>
+		<TNE>Mas de Cres</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas d'Orés</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdorés]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>12'5 Km 6 casas Masía de Óres</NOMENCLATOR>
+		<NORMAL>Mas d'Orés</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>59</id>
+		<lat>40.177666</lat>
+		<lon>-0.31643</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA></FECHA>
+		<BANDO></BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\nofoto.png</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP></NOMP>
+		<WAY></WAY>
+		<NOM></NOM>
+		<QUE>Masos</QUE>
+		<X>729049</X>
+		<Y>4450850</Y>
+		<Z>910</Z>
+		<PADRO></PADRO>
+		<FOTOS></FOTOS>
+		<TNE></TNE>
+		<MAP></MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Cabrer</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>Mas del Cabrer</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>66</id>
+		<lat>40.1749527</lat>
+		<lon>-0.311288</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26/08/2005</FECHA>
+		<BANDO>Armiña</BANDO>
+		<registre1893>1275 Masia de Armiñá</registre1893>
+		<img_foto>img\arminya.JPG</img_foto>
+		<img_foto2>img\arminya-1.JPG</img_foto2>
+		<img_foto3>img\arminya-2.JPG</img_foto3>
+		<img_foto4>img\arminya-3.JPG</img_foto4>
+		<img_foto5>img\arminya-4.JPG</img_foto5>
+		<img_foto6>img\arminya-5.JPG</img_foto6>
+		<img_foto7>img\arminya-7.JPG</img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas d'Arminyà</NOMP>
+		<WAY>M1</WAY>
+		<NOM>ARMINYA</NOM>
+		<QUE>Masos</QUE>
+		<X>730596</X>
+		<Y>4454239</Y>
+		<Z>900</Z>
+		<PADRO>Arminyà</PADRO>
+		<FOTOS>Arminya</FOTOS>
+		<TNE>Masia Armiñan</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas d'Arminyà</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdarmiñá]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2>12055</MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>18´7 Km 3 casas Masía de Armiña</NOMENCLATOR>
+		<NORMAL>Mas d'Arminyà</NORMAL>
+		<COMENTARIS>Hi ha cases del mas que pertanyen al terme de Llucena, i d'altres al terme de Xodos.</COMENTARIS>
+		<id>67</id>
+		<lat>40.205028</lat>
+		<lon>-0.291925</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Pla Perol</BANDO>
+		<registre1893>1268 Masia Pla de Perol 133</registre1893>
+		<img_foto>img\plaperol.JPG</img_foto>
+		<img_foto2>img\plaperol 1.JPG</img_foto2>
+		<img_foto3>img\plaperol 2.JPG</img_foto3>
+		<img_foto4>img\plaperol 3.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Pla de Perol</NOMP>
+		<WAY>M35</WAY>
+		<NOM>PLAPEROL</NOM>
+		<QUE>Masos</QUE>
+		<X>730851</X>
+		<Y>4452957</Y>
+		<Z>691</Z>
+		<PADRO>Pla de Perol</PADRO>
+		<FOTOS>Pla de Perol</FOTOS>
+		<TNE></TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>el Pla de Terol</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>13'7 Km  1 casa Masía del Plá del Perol</NOMENCLATOR>
+		<NORMAL>Mas del Pla de Terol</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>71</id>
+		<lat>40.193421</lat>
+		<lon>-0.289392</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Mentirola</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\mentirola.JPG</img_foto>
+		<img_foto2>img\mentirola mas.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Mentirola</NOMP>
+		<WAY>M38</WAY>
+		<NOM>MENTIROLA</NOM>
+		<QUE>Masos</QUE>
+		<X>730032</X>
+		<Y>4451553</Y>
+		<Z>830</Z>
+		<PADRO>Mentirola</PADRO>
+		<FOTOS>Mentirola</FOTOS>
+		<TNE>Mas de Mentirola</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Mentirola</TOPONIM>
+		<MAPA>592(3-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>10 Km 2 casas Masia dels clots de la Costa ?</NOMENCLATOR>
+		<NORMAL>Mas de Mentirola</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>72</id>
+		<lat>40.181011</lat>
+		<lon>-0.299504</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>07/09/2005</FECHA>
+		<BANDO>Gosalbo</BANDO>
+		<registre1893>913 Masia de Gosalbo</registre1893>
+		<img_foto>img\gossalbo.JPG</img_foto>
+		<img_foto2>img\gossalbo-1.JPG</img_foto2>
+		<img_foto3>img\gossalbo-2.JPG</img_foto3>
+		<img_foto4>img\gossalbo-4.JPG</img_foto4>
+		<img_foto5>img\gossalbo-5.JPG</img_foto5>
+		<img_foto6>img\gossalbo-6.JPG</img_foto6>
+		<img_foto7>img\gossalbo-7.JPG</img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Gosalbo</NOMP>
+		<WAY>M72</WAY>
+		<NOM>GOSALBO</NOM>
+		<QUE>Masos</QUE>
+		<X>736382</X>
+		<Y>4450250</Y>
+		<Z>684</Z>
+		<PADRO>Gossalbo</PADRO>
+		<FOTOS>Gossalbo</FOTOS>
+		<TNE>Mas de Gozalvo</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Gozalbo</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdegosálbo]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>10 Km 8 casas Masía de Gosalbo</NOMENCLATOR>
+		<NORMAL>Mas de Gozalbo</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>85</id>
+		<lat>40.167522</lat>
+		<lon>-0.225481</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Torroselles</BANDO>
+		<registre1893>1017 Partida de les Torrozelles, Hermitorio</registre1893>
+		<img_foto>img\nofoto.png</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Ermita de Sant Miquel de les Torroselles</NOMP>
+		<WAY>M59</WAY>
+		<NOM>TOROCELLES</NOM>
+		<QUE>Masos</QUE>
+		<X>736092</X>
+		<Y>4453413</Y>
+		<Z>575</Z>
+		<PADRO></PADRO>
+		<FOTOS></FOTOS>
+		<TNE>Ermita de San Miquel de Torrocelles</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Ermita de Sant Miquel de les Torrosselles</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[sanmikèl] [lestorrosélles]</TRANSC>
+		<CLAU>40702</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>15 Km 2 casas San Miguel de les Torresélles</NOMENCLATOR>
+		<NORMAL>Ermita de Sant Miquel de les Torrosselles</NORMAL>
+		<COMENTARIS>SALT: Etimològicament  amb -c-. A Llucena [torrosélles] a l'Alcora també [torresélles]</COMENTARIS>
+		<id>89</id>
+		<lat>40.196067</lat>
+		<lon>-0.227723</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Corral Salera</BANDO>
+		<registre1893>1074 Masia Corral de la Salera</registre1893>
+		<img_foto>img\salera.JPG</img_foto>
+		<img_foto2>img\salera-1.JPG</img_foto2>
+		<img_foto3>img\salera-2.JPG</img_foto3>
+		<img_foto4>img\salera-3.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Corral de la Salera</NOMP>
+		<WAY>M43</WAY>
+		<NOM>SALERA.C</NOM>
+		<QUE>Masos</QUE>
+		<X>734680</X>
+		<Y>4452664</Y>
+		<Z>665</Z>
+		<PADRO>Corral Salera</PADRO>
+		<FOTOS>Corral Salera</FOTOS>
+		<TNE></TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Corral de la Salera</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[korráldelasaléra]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>Corral de la Salera</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>90</id>
+		<lat>40.189723</lat>
+		<lon>-0.244566</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Armelers</BANDO>
+		<registre1893>1042 Masia dels Armelers</registre1893>
+		<img_foto>img\armeles 1.JPG</img_foto>
+		<img_foto2>img\armeles 2.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas dels Ametlers</NOMP>
+		<WAY>M45</WAY>
+		<NOM> ARMELES</NOM>
+		<QUE>Masos</QUE>
+		<X>734378</X>
+		<Y>4453360</Y>
+		<Z>735</Z>
+		<PADRO>Ametlers (Regall de Baix)</PADRO>
+		<FOTOS>Ametlers (Regall de Baix)</FOTOS>
+		<TNE>Mas dels Armeles</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas dels Armelers</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdlezarmelés]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>15 Km  4 casas  Masías dels Almelers</NOMENCLATOR>
+		<NORMAL>Mas dels Ametlers</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>91</id>
+		<lat>40.19607</lat>
+		<lon>-0.247857</lon>
+	</mas>
+	<mas>
+		<img_top>img\toponim_fogenta.JPG</img_top>
+		<img_top2></img_top2>
+		<FECHA>31/07/2005</FECHA>
+		<BANDO>Foyachenta</BANDO>
+		<registre1893>1049 Masia Foyachenta   nº22 Foya-chenta</registre1893>
+		<img_foto>img\fogenta.JPG</img_foto>
+		<img_foto2>img\fogenta 1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP></NOMP>
+		<WAY>M49</WAY>
+		<NOM>FOGENTA</NOM>
+		<QUE>Masos</QUE>
+		<X>733421</X>
+		<Y>4451833</Y>
+		<Z>814</Z>
+		<PADRO>Fogenta</PADRO>
+		<FOTOS>Fogenta</FOTOS>
+		<TNE>Masia Foyaxenta</TNE>
+		<MAP>592-IV</MAP>
+		<OBS>Luzena Padrón 1680 Caja 367 Ayuntamiento  Lucena  ( foya Agenta)          Pot ser digue que la foia va estar molt habitada? Agentà (accent) molta gent? . Llucena amb (Z). En la portada del llibre.</OBS>
+		<TOPONIM>la Foixenta</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[lafoisénta] [lafodjénta]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>10 Km. 9 Casas  Masía de la Foyachenta</NOMENCLATOR>
+		<NORMAL>la Foixenta</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>92</id>
+		<lat>40.182595</lat>
+		<lon>-0.259641</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Fabra Baix</BANDO>
+		<registre1893>1012 Masia de Fabra de Baix</registre1893>
+		<img_foto>img\fabrabaix-1.JPG</img_foto>
+		<img_foto2>img\fabrabaix-2.JPG</img_foto2>
+		<img_foto3>img\fabrabaix-3.JPG</img_foto3>
+		<img_foto4>img\fabrabaix-6.JPG</img_foto4>
+		<img_foto5>img\fabrabaix-8.JPG</img_foto5>
+		<img_foto6>img\fabrabaix-10.JPG</img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Fabra de Baix</NOMP>
+		<WAY>M64</WAY>
+		<NOM>FABRABAIX</NOM>
+		<QUE>Masos</QUE>
+		<X>736071</X>
+		<Y>4452716</Y>
+		<Z>622</Z>
+		<PADRO>Fabra de Baix</PADRO>
+		<FOTOS>Fabra de Baix</FOTOS>
+		<TNE>Mas de Fabra de Baix</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Fabra de Baix</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdefábradebáis]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>13'7 Km 3 casas Masía de Fabra de báix</NOMENCLATOR>
+		<NORMAL>Mas de Fabra de Baix</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>99</id>
+		<lat>40.189801</lat>
+		<lon>-0.228225</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Garcia</BANDO>
+		<registre1893>968 Masia de Garcia (nuevo) 218</registre1893>
+		<img_foto>img\garcia.JPG</img_foto>
+		<img_foto2>img\garcia-1.JPG</img_foto2>
+		<img_foto3>img\garcia-2.JPG</img_foto3>
+		<img_foto4>img\garcia-3.JPG</img_foto4>
+		<img_foto5>img\garcia-4.JPG</img_foto5>
+		<img_foto6>img\garcia-5.JPG</img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Garcia</NOMP>
+		<WAY>M149</WAY>
+		<NOM>GARCIA</NOM>
+		<QUE>Masos</QUE>
+		<X>735536</X>
+		<Y>4450146</Y>
+		<Z>743</Z>
+		<PADRO>Garcia</PADRO>
+		<FOTOS>Garcia</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Garcia</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdegarsía]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>9'3 Km 3 casas Masía de Valls de García</NOMENCLATOR>
+		<NORMAL>Mas de Garcia</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>106</id>
+		<lat>40.166824</lat>
+		<lon>-0.235443</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Fabra Dalt</BANDO>
+		<registre1893>1003 Masia Fabra, Mas de Fabra 181, Fabra de Dalt</registre1893>
+		<img_foto>img\fabra dalt.JPG</img_foto>
+		<img_foto2>img\fabradalt-1.JPG</img_foto2>
+		<img_foto3>img\fabradalt-2.JPG</img_foto3>
+		<img_foto4>img\fabradalt-3.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Fabra de Dalt</NOMP>
+		<WAY>M65</WAY>
+		<NOM>FABRADALT</NOM>
+		<QUE>Masos</QUE>
+		<X>735975</X>
+		<Y>4452263</Y>
+		<Z>645</Z>
+		<PADRO>Fabra de Dalt</PADRO>
+		<FOTOS>Fabra de Dalt</FOTOS>
+		<TNE>Mas de Fabra d'Amunt</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Fabra de Dalt</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdefábradedál]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>12'5 Km 2 casas Masía de Fabra de dalt</NOMENCLATOR>
+		<NORMAL>Mas de Fabra de Dalt</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>107</id>
+		<lat>40.185751</lat>
+		<lon>-0.229518</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>07/09/2005</FECHA>
+		<BANDO>Llometa</BANDO>
+		<registre1893>992 Masia de La Llometa, 180, 182, 183, 184, 185</registre1893>
+		<img_foto>img\llometa.JPG</img_foto>
+		<img_foto2>img\llometa-2.JPG</img_foto2>
+		<img_foto3>img\llometa-1.JPG</img_foto3>
+		<img_foto4>img\llometa-3.JPG</img_foto4>
+		<img_foto5>img\llometa-4.JPG</img_foto5>
+		<img_foto6>img\llometa-5.JPG</img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Llometa</NOMP>
+		<WAY>M67</WAY>
+		<NOM>LLOMETA</NOM>
+		<QUE>Masos</QUE>
+		<X>735243</X>
+		<Y>4451483</Y>
+		<Z>711</Z>
+		<PADRO>Llometa</PADRO>
+		<FOTOS>Llometa</FOTOS>
+		<TNE>Mas de la Llaneta</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de la Llometa</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelallométa]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>11'2 Km 4 casas Llometa (La)</NOMENCLATOR>
+		<NORMAL>Mas de la Llometa</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>108</id>
+		<lat>40.178937</lat>
+		<lon>-0.238391</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Tena</BANDO>
+		<registre1893>1134 Mas de Tena, Masia de tena</registre1893>
+		<img_foto>img\tena.JPG</img_foto>
+		<img_foto2>img\tena-1.JPG</img_foto2>
+		<img_foto3>img\tena-2.JPG</img_foto3>
+		<img_foto4>img\tena-3.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Tena</NOMP>
+		<WAY>M53</WAY>
+		<NOM>TENA</NOM>
+		<QUE>Masos</QUE>
+		<X>733944</X>
+		<Y>4450583</Y>
+		<Z>693</Z>
+		<PADRO>Tena</PADRO>
+		<FOTOS>Tena</FOTOS>
+		<TNE>Mas de Tena</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Tena</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdeténa]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>10 Km 8 casas Masía de Tena</NOMENCLATOR>
+		<NORMAL>Mas de Tena</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>110</id>
+		<lat>40.171201</lat>
+		<lon>-0.253958</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>07/09/2005</FECHA>
+		<BANDO>Valls</BANDO>
+		<registre1893>958 Masia Valls, de Valls</registre1893>
+		<img_foto>img\VALLS.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Valls</NOMP>
+		<WAY>M69</WAY>
+		<NOM>VALL1</NOM>
+		<QUE>Masos</QUE>
+		<X>735624</X>
+		<Y>4450642</Y>
+		<Z>702</Z>
+		<PADRO>Valls</PADRO>
+		<FOTOS>De Vall</FOTOS>
+		<TNE>Mas de la Vall</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Valls</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdebálls]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>10 Km 7 casas Masía de Valls de Verderol</NOMENCLATOR>
+		<NORMAL>Mas de Valls</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>113</id>
+		<lat>40.171262</lat>
+		<lon>-0.234229</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Masia Campas</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\campas.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Campàs</NOMP>
+		<WAY>M30</WAY>
+		<NOM>CAMPAS</NOM>
+		<QUE>Masos</QUE>
+		<X>732749</X>
+		<Y>4450373</Y>
+		<Z>682</Z>
+		<PADRO>Campàs</PADRO>
+		<FOTOS>El Campàs</FOTOS>
+		<TNE></TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Campàs</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelkampás]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>Mas del Campàs</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>114</id>
+		<lat>40.169643</lat>
+		<lon>-0.268053</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>07/09/2005</FECHA>
+		<BANDO>Pau</BANDO>
+		<registre1893>945 Pau</registre1893>
+		<img_foto>img\pau1.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Pau</NOMP>
+		<WAY>M73</WAY>
+		<NOM>PAU</NOM>
+		<QUE>Masos</QUE>
+		<X>737960</X>
+		<Y>4452153</Y>
+		<Z>564</Z>
+		<PADRO>Pau</PADRO>
+		<FOTOS>Pau</FOTOS>
+		<TNE>Mas de Pau</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Pau</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdepáu]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>15 Km 1 casa Masía de Páu</NOMENCLATOR>
+		<NORMAL>Mas de Pau</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>117</id>
+		<lat>40.184201</lat>
+		<lon>-0.206269</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Masia Puerto</BANDO>
+		<registre1893>1119 Masia de Puerto, 96, del Puerto</registre1893>
+		<img_foto>img\puerto.JPG</img_foto>
+		<img_foto2>img\puerto1.JPG</img_foto2>
+		<img_foto3>img\puerto 1.JPG</img_foto3>
+		<img_foto4>img\puerto 2.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Puerto</NOMP>
+		<WAY>M33</WAY>
+		<NOM>PUERTO</NOM>
+		<QUE>Masos</QUE>
+		<X>732776</X>
+		<Y>4451625</Y>
+		<Z>845</Z>
+		<PADRO>Puerto</PADRO>
+		<FOTOS>Puerto</FOTOS>
+		<TNE>Mas del Puerto</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Puerto</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdepuérto]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>8'7 Km  2 casas  Masía del Puerto</NOMENCLATOR>
+		<NORMAL>Mas de Puerto</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>118</id>
+		<lat>40.180903</lat>
+		<lon>-0.267283</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Fontanal</BANDO>
+		<registre1893>985 Masia Fontanal 164</registre1893>
+		<img_foto>img\gatell.JPG</img_foto>
+		<img_foto2>img\gatell-1.JPG</img_foto2>
+		<img_foto3>img\gatell-2.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Fontanal</NOMP>
+		<WAY>M148</WAY>
+		<NOM>FONTANAL</NOM>
+		<QUE>Masos</QUE>
+		<X>734800</X>
+		<Y>4450040</Y>
+		<Z>711</Z>
+		<PADRO></PADRO>
+		<FOTOS></FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS>Casa Tarsilo o Fontanal, font  Daniel Puerto.</OBS>
+		<TOPONIM>Mas de Gatell</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdegatéll]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>10 Km 3 casas Masía de Frontanal</NOMENCLATOR>
+		<NORMAL>Mas de Gatell</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>119</id>
+		<lat>40.166076</lat>
+		<lon>-0.244114</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>07/09/2005</FECHA>
+		<BANDO>Pollarrosa</BANDO>
+		<registre1893>934 Masia Pollarrosa, de Pollarrosa</registre1893>
+		<img_foto>img\pollarosa.JPG</img_foto>
+		<img_foto2>img\pollarosa-1.JPG</img_foto2>
+		<img_foto3>img\pollarosa-2.JPG</img_foto3>
+		<img_foto4>img\pollarosa-3.JPG</img_foto4>
+		<img_foto5>img\pollarosa-4.JPG</img_foto5>
+		<img_foto6>img\pollarosa-5.JPG</img_foto6>
+		<img_foto7>img\pollarosa-6.JPG</img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Pollarrosa</NOMP>
+		<WAY>M68</WAY>
+		<NOM>POLLAROSA</NOM>
+		<QUE>Masos</QUE>
+		<X>736848</X>
+		<Y>4451061</Y>
+		<Z>591</Z>
+		<PADRO>Pollarrosa</PADRO>
+		<FOTOS>Pollarrosa</FOTOS>
+		<TNE>Mas de la Pollarosa</TNE>
+		<MAP>592-IV</MAP>
+		<OBS>"Polla" es una gallina i "rrosa" es rotja, Mas de la Pollarrosa - "Mas de la Gallina Rotja"</OBS>
+		<TOPONIM>Mas de la Polla Rosa</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelapóllarròza]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>11'2 Km 8 casas Masía de la Pollarrosa</NOMENCLATOR>
+		<NORMAL>Mas de la Polla Rosa</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>120</id>
+		<lat>40.174689</lat>
+		<lon>-0.219717</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>07/09/2005</FECHA>
+		<BANDO>La Vall</BANDO>
+		<registre1893>1511 Mas de la Vall, Masia la Vall</registre1893>
+		<img_foto>img\vall.JPG</img_foto>
+		<img_foto2>img\vall-2.JPG</img_foto2>
+		<img_foto3>img\vall-3.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Vall</NOMP>
+		<WAY>M82</WAY>
+		<NOM>VALL2</NOM>
+		<QUE>Masos</QUE>
+		<X>726866</X>
+		<Y>4449062</Y>
+		<Z>791</Z>
+		<PADRO>La Vall</PADRO>
+		<FOTOS>De la Vall</FOTOS>
+		<TNE>Mas de la Vall</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de la Vall</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM>63</NUM>
+		<TRANSC>[mázdelabáll]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>11'2 Km 9 casas Masia de Lavall</NOMENCLATOR>
+		<NORMAL>Mas de la Vall</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>122</id>
+		<lat>40.159454</lat>
+		<lon>-0.337529</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Marín</BANDO>
+		<registre1893>1026 Masia Marín, de Marín</registre1893>
+		<img_foto>img\marin.JPG</img_foto>
+		<img_foto2>img\marin-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Marín</NOMP>
+		<WAY>M283</WAY>
+		<NOM>MARIN</NOM>
+		<QUE>Masos</QUE>
+		<X>735934</X>
+		<Y>4453850</Y>
+		<Z>616</Z>
+		<PADRO>Marin</PADRO>
+		<FOTOS>Marin</FOTOS>
+		<TNE></TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Marín</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdemarín]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>16'2 Km 3 casas Masía dels Marins</NOMENCLATOR>
+		<NORMAL>Mas de Marín</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>123</id>
+		<lat>40.200044</lat>
+		<lon>-0.229417</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Timó</BANDO>
+		<registre1893>1036 Masia de Timor</registre1893>
+		<img_foto>img\timo.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Timor</NOMP>
+		<WAY>M56</WAY>
+		<NOM>TIMO</NOM>
+		<QUE>Masos</QUE>
+		<X>735908</X>
+		<Y>4454655</Y>
+		<Z>658</Z>
+		<PADRO>Timó</PADRO>
+		<FOTOS>Timó</FOTOS>
+		<TNE>Mas de Tino</TNE>
+		<MAP>592-IV</MAP>
+		<OBS>Timor - Timó  igual que Sabater - Sabaté s'enmudix la r final.</OBS>
+		<TOPONIM>Mas de Timó</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdetimó]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>18'7 Km 2 casas Masía de Timor</NOMENCLATOR>
+		<NORMAL>Mas de Timó</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>128</id>
+		<lat>40.207295</lat>
+		<lon>-0.229427</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Caporal</BANDO>
+		<registre1893>981 Masia del Caporal</registre1893>
+		<img_foto>img\caporal.JPG</img_foto>
+		<img_foto2>img\caporal-1.JPG</img_foto2>
+		<img_foto3>img\caporal-2.JPG</img_foto3>
+		<img_foto4>img\caporal-4.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Caporal</NOMP>
+		<WAY>M239</WAY>
+		<NOM>CAPORAL</NOM>
+		<QUE>Masos</QUE>
+		<X>735014</X>
+		<Y>4450645</Y>
+		<Z>673</Z>
+		<PADRO>Caporal</PADRO>
+		<FOTOS>Caporal</FOTOS>
+		<TNE></TNE>
+		<MAP>592-IV</MAP>
+		<OBS>Casa Caporal</OBS>
+		<TOPONIM>Mas del Caporal</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelkaporál]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>Mas del Caporal</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>129</id>
+		<lat>40.17146</lat>
+		<lon>-0.241384</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Llepasar Dalt</BANDO>
+		<registre1893>1126 Masia Llepasar de Dalt</registre1893>
+		<img_foto>img\llepasa.JPG</img_foto>
+		<img_foto2>img\llepasa 1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Llepassar de Dalt</NOMP>
+		<WAY>M41</WAY>
+		<NOM>LLEPASA</NOM>
+		<QUE>Masos</QUE>
+		<X>732581</X>
+		<Y>4450829</Y>
+		<Z>760</Z>
+		<PADRO>Llepassar de Dalt</PADRO>
+		<FOTOS>Llepassar de Dalt</FOTOS>
+		<TNE>Masia Llepasar</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Llepassar</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelllepasá]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>7'5 Km 4 casas Masía de Llepassar de dalt</NOMENCLATOR>
+		<NORMAL>Mas del Llepassar</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>130</id>
+		<lat>40.173793</lat>
+		<lon>-0.269859</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>07/09/2005</FECHA>
+		<BANDO>Campo</BANDO>
+		<registre1893>1543 Masia del Campo</registre1893>
+		<img_foto>img\campo.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Campo</NOMP>
+		<WAY>M74</WAY>
+		<NOM>CAMPO</NOM>
+		<QUE>Masos</QUE>
+		<X>724872</X>
+		<Y>4449607</Y>
+		<Z>965</Z>
+		<PADRO>Campo</PADRO>
+		<FOTOS>El Campo</FOTOS>
+		<TNE></TNE>
+		<MAP>615-I</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Campo</TOPONIM>
+		<MAPA>615(2-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>15 Km 1 casa Caseta del Campo</NOMENCLATOR>
+		<NORMAL>Mas del Campo</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>134</id>
+		<lat>40.164894</lat>
+		<lon>-0.360728</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>07/09/2005</FECHA>
+		<BANDO>Evaristo</BANDO>
+		<registre1893>1525 Masia Evaristo, de Evaristo</registre1893>
+		<img_foto>img\evaristo.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas d'Evaristo</NOMP>
+		<WAY>M76</WAY>
+		<NOM>EVARISTO</NOM>
+		<QUE>Masos</QUE>
+		<X>725345</X>
+		<Y>4449573</Y>
+		<Z>860</Z>
+		<PADRO>Evaristo (Guitzo)</PADRO>
+		<FOTOS>Evaristo (Guitzo)</FOTOS>
+		<TNE>Mas de Evaristo</TNE>
+		<MAP>615-II</MAP>
+		<OBS>Mas de Portapaus, Portapous?</OBS>
+		<TOPONIM>Mas d'Evaristo</TOPONIM>
+		<MAPA>615(2-1)</MAPA>
+		<NUM>291</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>13'1 Km 10 casas Masía de Evaristo</NOMENCLATOR>
+		<NORMAL>Mas d'Evaristo</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>135</id>
+		<lat>40.164462</lat>
+		<lon>-0.355191</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>07/09/2005</FECHA>
+		<BANDO>Fabra Lloma</BANDO>
+		<registre1893>1603 Masia Fabra Lloma,131,127,124,123,131</registre1893>
+		<img_foto>img\fabralloma.JPG</img_foto>
+		<img_foto2>img\fabralloma-1.JPG</img_foto2>
+		<img_foto3>img\fabralloma-2.JPG</img_foto3>
+		<img_foto4>img\fabralloma-3.JPG</img_foto4>
+		<img_foto5>img\fabralloma-5.JPG</img_foto5>
+		<img_foto6>img\fabralloma-6.JPG</img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Fabra Lloma</NOMP>
+		<WAY>M92</WAY>
+		<NOM>FABRALLOMA</NOM>
+		<QUE>Masos</QUE>
+		<X>728365</X>
+		<Y>4447680</Y>
+		<Z>875</Z>
+		<PADRO>Fabra Lloma</PADRO>
+		<FOTOS>Fabra Lloma</FOTOS>
+		<TNE>Mas de Fabra Lloma</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Fabra</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdefábra]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>7'5 KM 9 casas Masía de Fabra de la Lloma</NOMENCLATOR>
+		<NORMAL>Mas de Fabra</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>139</id>
+		<lat>40.14661</lat>
+		<lon>-0.320435</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Penella</BANDO>
+		<registre1893>1583 Masia de la Penella 83</registre1893>
+		<img_foto>img\penella.JPG</img_foto>
+		<img_foto2>img\penella-1.JPG</img_foto2>
+		<img_foto3>img\penella-2.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Penella</NOMP>
+		<WAY>M102</WAY>
+		<NOM>PENELLA</NOM>
+		<QUE>Masos</QUE>
+		<X>727664</X>
+		<Y>4445912</Y>
+		<Z>873</Z>
+		<PADRO>Penella</PADRO>
+		<FOTOS>Penella</FOTOS>
+		<TNE>Mas Penella</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>la Penella</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[lapenélla]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>8'7 Km 1 casa Masía de la Penella</NOMENCLATOR>
+		<NORMAL>la Penella</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>142</id>
+		<lat>40.130889</lat>
+		<lon>-0.32928</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Torreta Campiello</BANDO>
+		<registre1893>884 Masia Torreta del Campiello, Torreta Campiello</registre1893>
+		<img_foto>img\torreta.JPG</img_foto>
+		<img_foto2>img\torreta 1.JPG</img_foto2>
+		<img_foto3>img\torreta 2.JPG</img_foto3>
+		<img_foto4>img\torreta 4.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Torreta del Campiello</NOMP>
+		<WAY>M171</WAY>
+		<NOM>TORRETA2</NOM>
+		<QUE>Masos</QUE>
+		<X>737008</X>
+		<Y>4447732</Y>
+		<Z>666</Z>
+		<PADRO>Torreta del Campiello</PADRO>
+		<FOTOS>Torreta del Campiello</FOTOS>
+		<TNE>Mas la Torreta</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>la Torreta</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[latorréta]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>12'8 Km 9 casas Masía de la Torreta de Campiello</NOMENCLATOR>
+		<NORMAL>la Torreta</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>146</id>
+		<lat>40.144687</lat>
+		<lon>-0.219063</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Lloma Agut</BANDO>
+		<registre1893>1621 Masia de Agut</registre1893>
+		<img_foto>img\agut.JPG</img_foto>
+		<img_foto2>img\agut-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas d'Agut</NOMP>
+		<WAY>M93</WAY>
+		<NOM>AGUT</NOM>
+		<QUE>Masos</QUE>
+		<X>728778</X>
+		<Y>4448040</Y>
+		<Z>878</Z>
+		<PADRO>Lloma Agut</PADRO>
+		<FOTOS>Lloma Agut</FOTOS>
+		<TNE>Mas de Agut</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas d'Agut</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdagút]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>Mas d'Agut</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>152</id>
+		<lat>40.149738</lat>
+		<lon>-0.315464</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Bartoll</BANDO>
+		<registre1893>1407 Masia de Bartoll, 12,17,18,16 Masia Bartoll</registre1893>
+		<img_foto>img\bartoll.JPG</img_foto>
+		<img_foto2>img\bartoll1.JPG</img_foto2>
+		<img_foto3>img\bartoll-2.JPG</img_foto3>
+		<img_foto4>img\bartoll-3.JPG</img_foto4>
+		<img_foto5>img\bartoll-4.JPG</img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Bartoll</NOMP>
+		<WAY>M106</WAY>
+		<NOM>BARTOLL</NOM>
+		<QUE>Masos</QUE>
+		<X>729235</X>
+		<Y>4449619</Y>
+		<Z>590</Z>
+		<PADRO>Bartoll</PADRO>
+		<FOTOS>Bartoll</FOTOS>
+		<TNE>Mas de Bartoll</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Bartoll</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdebartóll]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>7'5 Km 18 casas Masía de Bartoll</NOMENCLATOR>
+		<NORMAL>Mas de Bartoll</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>153</id>
+		<lat>40.163824</lat>
+		<lon>-0.309544</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>07/09/2005</FECHA>
+		<BANDO>Conill</BANDO>
+		<registre1893>1494 Masia Belensa o Conill</registre1893>
+		<img_foto>img\CONILL.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Conill</NOMP>
+		<WAY>M85</WAY>
+		<NOM>CONILL</NOM>
+		<QUE>Masos</QUE>
+		<X>728323</X>
+		<Y>4448429</Y>
+		<Z>777</Z>
+		<PADRO>Conill (Relença)</PADRO>
+		<FOTOS>Conill (Relença)</FOTOS>
+		<TNE>Mas Montoliu</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Conill</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdekoníll]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>8'7 Km 1 casa Masía de Belensá</NOMENCLATOR>
+		<NORMAL>Mas de Conill</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>154</id>
+		<lat>40.153362</lat>
+		<lon>-0.320663</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>07/09/2005</FECHA>
+		<BANDO>Torre Negre</BANDO>
+		<registre1893>1406 Masia Torre Negre</registre1893>
+		<img_foto>img\torrenegre.JPG</img_foto>
+		<img_foto2>img\torrenegre-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Torrenegre</NOMP>
+		<WAY>M89</WAY>
+		<NOM>TORRENEGRE</NOM>
+		<QUE>Masos</QUE>
+		<X>727905</X>
+		<Y>4449304</Y>
+		<Z>685</Z>
+		<PADRO>Torre Negre</PADRO>
+		<FOTOS>Torre Negre</FOTOS>
+		<TNE>Mas de Torre</TNE>
+		<MAP>615-II</MAP>
+		<OBS>"Torre dels Negres"</OBS>
+		<TOPONIM>la Torre del Negre</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[latórrelnégre]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>10 Km 1 casa Masía de la Torrenegre</NOMENCLATOR>
+		<NORMAL>Torre del Negre</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>155</id>
+		<lat>40.16135</lat>
+		<lon>-0.325256</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Crevá Morral</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\creva.JPG</img_foto>
+		<img_foto2>img\creva1-1.JPG</img_foto2>
+		<img_foto3>img\creva1-2.JPG</img_foto3>
+		<img_foto4>img\creva1.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Crebà</NOMP>
+		<WAY>M175</WAY>
+		<NOM>CREVA</NOM>
+		<QUE>Masos</QUE>
+		<X>735573</X>
+		<Y>4446793</Y>
+		<Z>721</Z>
+		<PADRO>Crevada Campiello</PADRO>
+		<FOTOS>Crevada Campiello</FOTOS>
+		<TNE>Mas de la Creva</TNE>
+		<MAP>615-II</MAP>
+		<OBS>Crebà o Crebada, pendent de normalització.</OBS>
+		<TOPONIM>Mas de la Crebada</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>Mas de la Crebada</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>158</id>
+		<lat>40.13664</lat>
+		<lon>-0.236233</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>07/09/2005</FECHA>
+		<BANDO>Montins</BANDO>
+		<registre1893>1499 Masia de Montins</registre1893>
+		<img_foto>img\MONTINS1.JPG</img_foto>
+		<img_foto2>img\MONTINS2.JPG</img_foto2>
+		<img_foto3>img\MONTINS3.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Montins</NOMP>
+		<WAY>M83</WAY>
+		<NOM>MONTINS</NOM>
+		<QUE>Masos</QUE>
+		<X>727511</X>
+		<Y>4448881</Y>
+		<Z>726</Z>
+		<PADRO>Montins</PADRO>
+		<FOTOS>Montins Baix</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Montins</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdemontíns]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>10 Km 2 casas Masía de Montins</NOMENCLATOR>
+		<NORMAL>Mas de Montins</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>179</id>
+		<lat>40.15765</lat>
+		<lon>-0.330027</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Segundo</BANDO>
+		<registre1893>1425 Masia Puchona ?</registre1893>
+		<img_foto>img\segundo.JPG</img_foto>
+		<img_foto2>img\segundo-3.JPG</img_foto2>
+		<img_foto3>img\segundo-4.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Segundo</NOMP>
+		<WAY>M117</WAY>
+		<NOM>SEGUNDO</NOM>
+		<QUE>Masos</QUE>
+		<X>730050</X>
+		<Y>4448580</Y>
+		<Z>519</Z>
+		<PADRO>Segundo</PADRO>
+		<FOTOS>Segundo</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Segundo</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdesegúndo]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>3'7 Km 1 casa Masía de Segundo</NOMENCLATOR>
+		<NORMAL>Mas de Segundo</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>184</id>
+		<lat>40.15425</lat>
+		<lon>-0.300354</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Coch</BANDO>
+		<registre1893>1631 Masia Coch, del Coch, Masia Coc</registre1893>
+		<img_foto>img\coc.JPG</img_foto>
+		<img_foto2>img\coc mas.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Coc</NOMP>
+		<WAY>M135</WAY>
+		<NOM>COC</NOM>
+		<QUE>Masos</QUE>
+		<X>729889</X>
+		<Y>4446675</Y>
+		<Z>800</Z>
+		<PADRO>Coc</PADRO>
+		<FOTOS>Coc</FOTOS>
+		<TNE>Mas de Coc</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Coc</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelkòk]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>3'7 Km 4 casas Masía del Coc</NOMENCLATOR>
+		<NORMAL>Mas del Coc</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>186</id>
+		<lat>40.137151</lat>
+		<lon>-0.302921</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Pla Fustera</BANDO>
+		<registre1893>1645 Pla de la Fustera, Partida Pla de la Fustera</registre1893>
+		<img_foto>img\plafustera.JPG</img_foto>
+		<img_foto2>img\plafustera-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Pla de la Fustera</NOMP>
+		<WAY>M134</WAY>
+		<NOM>FUSTERA</NOM>
+		<QUE>Masos</QUE>
+		<X>730403</X>
+		<Y>4446835</Y>
+		<Z>734</Z>
+		<PADRO>Pla de la Fustera</PADRO>
+		<FOTOS>Pla de la Fustera</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Pla de la Fustera</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelplálafustéra]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>2'5 Km 4 casas Masía del Plá de la Fustera</NOMENCLATOR>
+		<NORMAL>Mas del Pla de la Fustera</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>187</id>
+		<lat>40.13845</lat>
+		<lon>-0.296837</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Puntal</BANDO>
+		<registre1893>1467 Masia del Puntal, 112</registre1893>
+		<img_foto>img\puntal.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Puntal</NOMP>
+		<WAY>M122</WAY>
+		<NOM>PUNTAL</NOM>
+		<QUE>Masos</QUE>
+		<X>730219</X>
+		<Y>4448031</Y>
+		<Z>702</Z>
+		<PADRO>Puntal</PADRO>
+		<FOTOS>Puntal</FOTOS>
+		<TNE>Mas del Puntal</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Puntal</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelpuntál]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>5 Km 8 casas Masía del Puntal</NOMENCLATOR>
+		<NORMAL>Mas del Puntal</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>188</id>
+		<lat>40.149264</lat>
+		<lon>-0.298568</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Roig</BANDO>
+		<registre1893>1488 Masia Roig</registre1893>
+		<img_foto>img\roig.JPG</img_foto>
+		<img_foto2>img\roig-3.JPG</img_foto2>
+		<img_foto3>img\roig-5.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Roig</NOMP>
+		<WAY>M107</WAY>
+		<NOM>ROIG</NOM>
+		<QUE>Masos</QUE>
+		<X>729055</X>
+		<Y>4449540</Y>
+		<Z>597</Z>
+		<PADRO>Roig</PADRO>
+		<FOTOS>Roig</FOTOS>
+		<TNE>Mas de Roig</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Roig</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelrròtx]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>7'5 Km 3 casas Masía del Róig</NOMENCLATOR>
+		<NORMAL>Mas del Roig</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>189</id>
+		<lat>40.163162</lat>
+		<lon>-0.311683</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Molino Gosalbo</BANDO>
+		<registre1893>1223 Molino de Gozalbo, Partida Molino Gozalbo</registre1893>
+		<img_foto>img\nofoto.png</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Molí Gosalbo</NOMP>
+		<WAY>M110</WAY>
+		<NOM>GOSALBO.M</NOM>
+		<QUE>Masos</QUE>
+		<X>730760</X>
+		<Y>4449462</Y>
+		<Z>490</Z>
+		<PADRO>Molí Gosalbo</PADRO>
+		<FOTOS>Molí Gosalbo</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS>Els actuals propietaris Fernando i Vicente Gellida, d'apodo es diuen els gats.</OBS>
+		<TOPONIM>Molí del Gat</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[molílgát]</TRANSC>
+		<CLAU>20205</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>5 Km 1 casa Molino de Gosalbo</NOMENCLATOR>
+		<NORMAL>Molí del Gat</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>191</id>
+		<lat>40.161993</lat>
+		<lon>-0.291711</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Rodrigo</BANDO>
+		<registre1893>1623 Masia Rodrigo, de Rodrigo</registre1893>
+		<img_foto>img\rodrigo.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Rodrigo</NOMP>
+		<WAY>M94</WAY>
+		<NOM>RODRIGO</NOM>
+		<QUE>Masos</QUE>
+		<X>728958</X>
+		<Y>4447211</Y>
+		<Z>793</Z>
+		<PADRO>Rodrigo</PADRO>
+		<FOTOS>Rodrigo</FOTOS>
+		<TNE>Mas de Rodrigo</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Rodrigo</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázderrodrígo]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>5 Km 7 casas Masía de Rodrigo</NOMENCLATOR>
+		<NORMAL>Mas de Rodrigo</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>192</id>
+		<lat>40.142228</lat>
+		<lon>-0.313647</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>07/09/2005</FECHA>
+		<BANDO>Foyos</BANDO>
+		<registre1893>1552 Mas de Foyos, Foyos 75,76,48, Masia de Foyos</registre1893>
+		<img_foto>img\foios.JPG</img_foto>
+		<img_foto2>img\foios-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Foios</NOMP>
+		<WAY>M91</WAY>
+		<NOM>FOIOS</NOM>
+		<QUE>Masos</QUE>
+		<X>727410</X>
+		<Y>4447556</Y>
+		<Z>885</Z>
+		<PADRO>Foios de Dalt</PADRO>
+		<FOTOS>Foios</FOTOS>
+		<TNE>Mas de Foyos</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Foios</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdefòyos]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>8 Km 1 casa Masía de Fóyos</NOMENCLATOR>
+		<NORMAL>Mas de Foios</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>201</id>
+		<lat>40.145753</lat>
+		<lon>-0.331678</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Guiña</BANDO>
+		<registre1893>1574 Masia Tomasa Foyos, Masia de Tomasa</registre1893>
+		<img_foto>img\guinya.JPG</img_foto>
+		<img_foto2>img\guinya-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Guinya</NOMP>
+		<WAY>M98</WAY>
+		<NOM>GUINYA</NOM>
+		<QUE>Masos</QUE>
+		<X>727732</X>
+		<Y>4446833</Y>
+		<Z>890</Z>
+		<PADRO>Guinya</PADRO>
+		<FOTOS>Guinya</FOTOS>
+		<TNE>Mas Guina</TNE>
+		<MAP>615-II</MAP>
+		<OBS>Mas de Guinya sense accent en la a.</OBS>
+		<TOPONIM>Mas de Guinyà</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdegiñá]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>7'5 Km 6 casas Masía de Tomasa</NOMENCLATOR>
+		<NORMAL>Mas de Guinyà</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>206</id>
+		<lat>40.139159</lat>
+		<lon>-0.328157</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Masia Azud</BANDO>
+		<registre1893>1179 Masia Azud, 1,22,24,29 Partida de la Azud</registre1893>
+		<img_foto>img\assut.JPG</img_foto>
+		<img_foto2>img\assut moli.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de l'Assut</NOMP>
+		<WAY>M123</WAY>
+		<NOM>ASSUT</NOM>
+		<QUE>Masos</QUE>
+		<X>731866</X>
+		<Y>4448128</Y>
+		<Z>516</Z>
+		<PADRO>Assut</PADRO>
+		<FOTOS>Assut</FOTOS>
+		<TNE>Mas d'Azud</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de l'Assut</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelasút]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>2'5 Km 4 casas Masía del Azud</NOMENCLATOR>
+		<NORMAL>Mas de l'Assut</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>209</id>
+		<lat>40.149684</lat>
+		<lon>-0.279218</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>07/09/2005</FECHA>
+		<BANDO>Calzadeta</BANDO>
+		<registre1893>1524 Masia Calsadeta</registre1893>
+		<img_foto>img\CALSAETA.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Calçadeta</NOMP>
+		<WAY>M80</WAY>
+		<NOM>CALSAETA</NOM>
+		<QUE>Masos</QUE>
+		<X>726094</X>
+		<Y>4449220</Y>
+		<Z>812</Z>
+		<PADRO>Calçadeta</PADRO>
+		<FOTOS>Calçadeta</FOTOS>
+		<TNE>Mas de la Calzada</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de la Calçadeta</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelakalsaéta]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>Mas de la Calçadeta</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>214</id>
+		<lat>40.161084</lat>
+		<lon>-0.346528</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Hilario</BANDO>
+		<registre1893>1197 Masia de Hilario 286</registre1893>
+		<img_foto>img\hilario.JPG</img_foto>
+		<img_foto2>img\hilario 1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas d'Hilario</NOMP>
+		<WAY>M116</WAY>
+		<NOM>HILARIO</NOM>
+		<QUE>Masos</QUE>
+		<X>731218</X>
+		<Y>4448722</Y>
+		<Z>473</Z>
+		<PADRO>Hilari</PADRO>
+		<FOTOS>Hilari</FOTOS>
+		<TNE>Mas de Milars</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas d'Hilario</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdilário]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>3'7 Km 5 casas Masía de Hilário</NOMENCLATOR>
+		<NORMAL>Mas d'Hilario</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>216</id>
+		<lat>40.155208</lat>
+		<lon>-0.286605</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Mollón</BANDO>
+		<registre1893>1206 Masia Mollón, 169,270,271,175 de Mollón</registre1893>
+		<img_foto>img\mollon.JPG</img_foto>
+		<img_foto2>img\mollon mas.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Mollón</NOMP>
+		<WAY>M113</WAY>
+		<NOM>MOLLON</NOM>
+		<QUE>Masos</QUE>
+		<X>731180</X>
+		<Y>4449166</Y>
+		<Z>550</Z>
+		<PADRO>Molló</PADRO>
+		<FOTOS>Motllo</FOTOS>
+		<TNE>Mas del Molló</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Mollón</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdemollón]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>4'6 Km 8 casas Masía de Mollon</NOMENCLATOR>
+		<NORMAL>Mas de Mollón</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>217</id>
+		<lat>40.159214</lat>
+		<lon>-0.286891</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Venta Tonero</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\ventatonero.JPG</img_foto>
+		<img_foto2>img\ventatonero-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Venta del Tonero</NOMP>
+		<WAY>M99</WAY>
+		<NOM>TONERO.V</NOM>
+		<QUE>Masos</QUE>
+		<X>727898</X>
+		<Y>4447018</Y>
+		<Z>865</Z>
+		<PADRO>Venta del Tonero</PADRO>
+		<FOTOS>Venta del Tonero</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Venta del Tonero</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM>276</NUM>
+		<TRANSC>[béntaltonéro]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>Venta del Tonero</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>218</id>
+		<lat>40.140779</lat>
+		<lon>-0.326146</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Cassilla Foyos</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\decoroso.JPG</img_foto>
+		<img_foto2>img\decoroso-1.JPG</img_foto2>
+		<img_foto3>img\decoroso-3.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Casa de Decoroso Beltran</NOMP>
+		<WAY>M265</WAY>
+		<NOM>BELTRAN.CS</NOM>
+		<QUE>Masos</QUE>
+		<X>728376</X>
+		<Y>4446878</Y>
+		<Z>848</Z>
+		<PADRO></PADRO>
+		<FOTOS>Beltrán</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS>Decoroso Beltràn és el nom del propietari actual. La Cassilla Foyos, podria ser la caseta dels camineros que hi ha prop.</OBS>
+		<TOPONIM>Venta Decorosso</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[béntadekoróso]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>Venta de Corosso</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>220</id>
+		<lat>40.13939</lat>
+		<lon>-0.32059</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>07/09/2005</FECHA>
+		<BANDO>Manzanera</BANDO>
+		<registre1893>1544 Masia de la Manzanera</registre1893>
+		<img_foto>img\mansanera.JPG</img_foto>
+		<img_foto2>img\manxergues-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Mançanera</NOMP>
+		<WAY>M87</WAY>
+		<NOM>MANSANERA</NOM>
+		<QUE>Masos</QUE>
+		<X>726459</X>
+		<Y>4448482</Y>
+		<Z>972</Z>
+		<PADRO>Mançanera</PADRO>
+		<FOTOS>Mançanera</FOTOS>
+		<TNE>Mas de la Manzanera</TNE>
+		<MAP>615_II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Mançanera</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdemansanéra]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>12'5 Km 1 casa Masía de la Manzanera</NOMENCLATOR>
+		<NORMAL>Mas de Mançanera</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>222</id>
+		<lat>40.154343</lat>
+		<lon>-0.342506</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Magdalena</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\madalena.JPG</img_foto>
+		<img_foto2>img\madalena-1.JPG</img_foto2>
+		<img_foto3>img\madalena-2.JPG</img_foto3>
+		<img_foto4>img\madalena-3.JPG</img_foto4>
+		<img_foto5>img\madalena-5.JPG</img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Magdalena</NOMP>
+		<WAY>M96</WAY>
+		<NOM>MADALENA</NOM>
+		<QUE>Masos</QUE>
+		<X>728192</X>
+		<Y>4446387</Y>
+		<Z>873</Z>
+		<PADRO>Magdalena</PADRO>
+		<FOTOS>Magdalena (Foios Jogim)</FOTOS>
+		<TNE>Mas Magdalena</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Magdalena</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdemadaléna]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>7'5 Km 1 casa Caseta de Magdalena</NOMENCLATOR>
+		<NORMAL>Mas de Magdalena</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>224</id>
+		<lat>40.135021</lat>
+		<lon>-0.322921</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>07/09/2005</FECHA>
+		<BANDO>Torreta Foyos</BANDO>
+		<registre1893>1545 Partida de la Torreta, Masia de la Torreta</registre1893>
+		<img_foto>img\torreta1.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Torreta de Foios</NOMP>
+		<WAY>M90</WAY>
+		<NOM>TORRETA1</NOM>
+		<QUE>Masos</QUE>
+		<X>726745</X>
+		<Y>4447870</Y>
+		<Z>950</Z>
+		<PADRO>Torreta de Foios</PADRO>
+		<FOTOS>Torreta Foios</FOTOS>
+		<TNE>Mas la Torreta</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de la Torreta</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelatorréta]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>12'5 Km 2 casas Masía de la Torreta de Foyos</NOMENCLATOR>
+		<NORMAL>Mas de la Torreta</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>226</id>
+		<lat>40.148759</lat>
+		<lon>-0.339367</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Llorens</BANDO>
+		<registre1893>1233 Masia Llorens, 152,154,155,162 de Llorens</registre1893>
+		<img_foto>img\llorens.JPG</img_foto>
+		<img_foto2>img\llorens mas.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Llorens</NOMP>
+		<WAY>M109</WAY>
+		<NOM>LLORENS</NOM>
+		<QUE>Masos</QUE>
+		<X>730628</X>
+		<Y>4449751</Y>
+		<Z>525</Z>
+		<PADRO>Llorenç</PADRO>
+		<FOTOS>Llorenç</FOTOS>
+		<TNE>Masia Llorens</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Llorens</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelloréns]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>5 Km 21 casas Masía de Llorens</NOMENCLATOR>
+		<NORMAL>Mas de Llorenç</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>227</id>
+		<lat>40.16463</lat>
+		<lon>-0.293156</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Figues</BANDO>
+		<registre1893>1219 Masia Figues, de les Figues</registre1893>
+		<img_foto>img\figues.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de les Figues</NOMP>
+		<WAY>M111</WAY>
+		<NOM>FIGUES</NOM>
+		<QUE>Masos</QUE>
+		<X>731000</X>
+		<Y>4449397</Y>
+		<Z>540</Z>
+		<PADRO>Figues</PADRO>
+		<FOTOS>Figues</FOTOS>
+		<TNE>Mas de les Figueres</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de les Figues</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelesfíges]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>4'8 Km 5 casas Masía de les Figues</NOMENCLATOR>
+		<NORMAL>Mas de les Figues</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>228</id>
+		<lat>40.161342</lat>
+		<lon>-0.28892</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Coronetes</BANDO>
+		<registre1893>1839 Masia Coronetes, 47,48 Mas de les Coronetes</registre1893>
+		<img_foto>img\coronetes.JPG</img_foto>
+		<img_foto2>img\coronetes-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de les Coronetes</NOMP>
+		<WAY>M193</WAY>
+		<NOM>CORONETES</NOM>
+		<QUE>Masos</QUE>
+		<X>731511</X>
+		<Y>4444309</Y>
+		<Z>735</Z>
+		<PADRO>Coronetes</PADRO>
+		<FOTOS>Coronetes</FOTOS>
+		<TNE>Mas Coronetes</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de les Coronetes</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>3'7 Km 5 casas Masía de les Coronétes</NOMENCLATOR>
+		<NORMAL>Mas de les Coronetes</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>229</id>
+		<lat>40.115413</lat>
+		<lon>-0.28475</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Om</BANDO>
+		<registre1893>1838 Masia del Om</registre1893>
+		<img_foto>img\OM.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de l'Om</NOMP>
+		<WAY>M206</WAY>
+		<NOM>OM</NOM>
+		<QUE>Masos</QUE>
+		<X>732945</X>
+		<Y>4443905</Y>
+		<Z>740</Z>
+		<PADRO></PADRO>
+		<FOTOS>Om</FOTOS>
+		<TNE>Mas del olmo</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de l'Om</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC>masdelóm</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>7'5 Km 1 casa Caseta del Om</NOMENCLATOR>
+		<NORMAL>Mas de l'Om</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>232</id>
+		<lat>40.111382</lat>
+		<lon>-0.268087</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Granell</BANDO>
+		<registre1893>1846 Masia Granell</registre1893>
+		<img_foto>img\granell.JPG</img_foto>
+		<img_foto2>img\granell1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Granell</NOMP>
+		<WAY>M194</WAY>
+		<NOM>GRANELL</NOM>
+		<QUE>Masos</QUE>
+		<X>732160</X>
+		<Y>4444477</Y>
+		<Z>637</Z>
+		<PADRO>Granell</PADRO>
+		<FOTOS>Granell</FOTOS>
+		<TNE>Mas Granell</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Granell</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>5 Km 5 casas Masía de Granell</NOMENCLATOR>
+		<NORMAL>Mas de Granell</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>233</id>
+		<lat>40.116746</lat>
+		<lon>-0.277083</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Tosal</BANDO>
+		<registre1893>1781 Masia del Tosal, Masia Tosal</registre1893>
+		<img_foto>img\tossal.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Tossal</NOMP>
+		<WAY>M190</WAY>
+		<NOM>TOSSAL</NOM>
+		<QUE>Masos</QUE>
+		<X>729390</X>
+		<Y>4441943</Y>
+		<Z>779</Z>
+		<PADRO>Tossal</PADRO>
+		<FOTOS>Tossal</FOTOS>
+		<TNE>Mas del Tosal</TNE>
+		<MAP>615-II</MAP>
+		<OBS>Hi ha dos.</OBS>
+		<TOPONIM>Mas del Tossal</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>12'5 Km 2 casas Masía del Tosal</NOMENCLATOR>
+		<NORMAL>Mas del Tossal</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>234</id>
+		<lat>40.094701</lat>
+		<lon>-0.310451</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Barranco Alba</BANDO>
+		<registre1893>1751 Masia Barranc del Alba, Barranco del Alba</registre1893>
+		<img_foto>img\mina.JPG</img_foto>
+		<img_foto2>img\mina-1.JPG</img_foto2>
+		<img_foto3>img\mina-2.JPG</img_foto3>
+		<img_foto4>img\mina-3.JPG</img_foto4>
+		<img_foto5>img\mina-4.JPG</img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Mina</NOMP>
+		<WAY>M199</WAY>
+		<NOM>MINA</NOM>
+		<QUE>Masos</QUE>
+		<X>730323</X>
+		<Y>4443200</Y>
+		<Z>598</Z>
+		<PADRO>Barranc de L'Alba</PADRO>
+		<FOTOS>Barranc de L'Alba</FOTOS>
+		<TNE>Mas de la Mina</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de la Mina</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>7'5 Km 11 casas Masía del Alba</NOMENCLATOR>
+		<NORMAL>Mas de la Mina</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>235</id>
+		<lat>40.105759</lat>
+		<lon>-0.299071</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Sabineta</BANDO>
+		<registre1893>1828 Masia Cova Locre</registre1893>
+		<img_foto>img\sabineta.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Cova l'Ocre</NOMP>
+		<WAY>M204</WAY>
+		<NOM>COVAOCRE</NOM>
+		<QUE>Masos</QUE>
+		<X>732657</X>
+		<Y>4442510</Y>
+		<Z>684</Z>
+		<PADRO>Sabineta (Cova del Ocre)</PADRO>
+		<FOTOS>Sabineta (Cova del Ocre)</FOTOS>
+		<TNE>Mas de la Cova del Ocre</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de la Savineta</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>Mas de la Savineta</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>237</id>
+		<lat>40.098907</lat>
+		<lon>-0.271965</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Llosar</BANDO>
+		<registre1893>1771 Masia del Llosar,69,Mas del Llosar</registre1893>
+		<img_foto>img\llossa.JPG</img_foto>
+		<img_foto2>img\llossa-1.JPG</img_foto2>
+		<img_foto3>img\llossa-2.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Llosar</NOMP>
+		<WAY>M205</WAY>
+		<NOM>LLOSSA</NOM>
+		<QUE>Masos</QUE>
+		<X>730162</X>
+		<Y>4441738</Y>
+		<Z>649</Z>
+		<PADRO>Llosar</PADRO>
+		<FOTOS>Llosar</FOTOS>
+		<TNE>Mas la Llosa</TNE>
+		<MAP>615-II</MAP>
+		<OBS>El Maset del Llossà  (El Maset)</OBS>
+		<TOPONIM>Mas del Llosar</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>11'8 Km 2 casas Masia del Llosar</NOMENCLATOR>
+		<NORMAL>Mas del Llosar</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>238</id>
+		<lat>40.092645</lat>
+		<lon>-0.301478</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Martí</BANDO>
+		<registre1893>1726 Masia Martí, de Martí</registre1893>
+		<img_foto>img\marti.JPG</img_foto>
+		<img_foto2>img\marti-1.JPG</img_foto2>
+		<img_foto3>img\marti-2.JPG</img_foto3>
+		<img_foto4>img\marti-4.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Martí</NOMP>
+		<WAY>M188</WAY>
+		<NOM>MARTI</NOM>
+		<QUE>Masos</QUE>
+		<X>729293</X>
+		<Y>4443627</Y>
+		<Z>816</Z>
+		<PADRO>Martí</PADRO>
+		<FOTOS>Martí</FOTOS>
+		<TNE>Mas Marti</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Martí</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>11'2 Km 8 casas Masía de Martí</NOMENCLATOR>
+		<NORMAL>Mas de Martí</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>239</id>
+		<lat>40.109883</lat>
+		<lon>-0.310991</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Rey</BANDO>
+		<registre1893>1715 Masia del Rey, 19, Mas del Rey</registre1893>
+		<img_foto>img\rei.JPG</img_foto>
+		<img_foto2>img\rei-1.JPG</img_foto2>
+		<img_foto3>img\rei-3.JPG</img_foto3>
+		<img_foto4>img\rei-2.JPG</img_foto4>
+		<img_foto5>img\rei-4.JPG</img_foto5>
+		<img_foto6>img\rei-5.JPG</img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Rei</NOMP>
+		<WAY>M178</WAY>
+		<NOM>REI</NOM>
+		<QUE>Masos</QUE>
+		<X>728911</X>
+		<Y>4444716</Y>
+		<Z>870</Z>
+		<PADRO>Rei</PADRO>
+		<FOTOS>Rei</FOTOS>
+		<TNE>Mas del Rei</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Rei</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>10 Km 1 casa Masía del Rey</NOMENCLATOR>
+		<NORMAL>Mas del Rei</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>240</id>
+		<lat>40.119787</lat>
+		<lon>-0.315083</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Pedroses</BANDO>
+		<registre1893>1788 Masia de les Pedroses,34,Masia Pedroses</registre1893>
+		<img_foto>img\pedroses.JPG</img_foto>
+		<img_foto2>img\pedroses-2.JPG</img_foto2>
+		<img_foto3>img\pedroses-3.JPG</img_foto3>
+		<img_foto4>img\pedroses-4.JPG</img_foto4>
+		<img_foto5>img\pedroses-5.JPG</img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de les Pedroses</NOMP>
+		<WAY>M185</WAY>
+		<NOM>PEDROSES</NOM>
+		<QUE>Masos</QUE>
+		<X>728841</X>
+		<Y>4441085</Y>
+		<Z>708</Z>
+		<PADRO>Pedroses</PADRO>
+		<FOTOS>Pedroses</FOTOS>
+		<TNE>Mas de las Pedrazas</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>les Pedroses</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[lespedrózes]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>13'7 Km 2 casas Masía de les Pedróses</NOMENCLATOR>
+		<NORMAL>les Pedroses</NORMAL>
+		<COMENTARIS>     </COMENTARIS>
+		<id>244</id>
+		<lat>40.087128</lat>
+		<lon>-0.317188</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Lloma Pedroses</BANDO>
+		<registre1893>1737 Masía Lloma de Chuncar</registre1893>
+		<img_foto>img\barbero.JPG</img_foto>
+		<img_foto2>img\barbero-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Barbero</NOMP>
+		<WAY>M184</WAY>
+		<NOM>BARBERO</NOM>
+		<QUE>Masos</QUE>
+		<X>728551</X>
+		<Y>4441483</Y>
+		<Z>783</Z>
+		<PADRO>Lloma Pedroses</PADRO>
+		<FOTOS>Barbero</FOTOS>
+		<TNE>Mas de la Lloma</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Barbero</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelbarbéro]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>Mas del Barbero</NORMAL>
+		<COMENTARIS>     </COMENTARIS>
+		<id>245</id>
+		<lat>40.090789</lat>
+		<lon>-0.320446</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Colomines</BANDO>
+		<registre1893>1713 Masia Colomines, de Colomines</registre1893>
+		<img_foto>img\colomines dalt.JPG</img_foto>
+		<img_foto2>img\colomines dalt-1.JPG</img_foto2>
+		<img_foto3>img\colomines dalt-2.JPG</img_foto3>
+		<img_foto4>img\colomines dalt-3.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Colomines de Dalt</NOMP>
+		<WAY>M187</WAY>
+		<NOM>COLOMINES2</NOM>
+		<QUE>Masos</QUE>
+		<X>729441</X>
+		<Y>4444108</Y>
+		<Z>800</Z>
+		<PADRO>Colomines</PADRO>
+		<FOTOS>Colomines de Dalt</FOTOS>
+		<TNE>Mas Colominas de d'Alt</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Colomines de Dalt</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>10 Km 1 casa Masía de Colomínes</NOMENCLATOR>
+		<NORMAL>Mas de Colomines de Dalt</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>251</id>
+		<lat>40.114171</lat>
+		<lon>-0.309086</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA></FECHA>
+		<BANDO></BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\covartxos.JPG</img_foto>
+		<img_foto2>img\covartxos-1.JPG</img_foto2>
+		<img_foto3>img\covartxos-2.JPG</img_foto3>
+		<img_foto4>img\covartxos-3.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP></NOMP>
+		<WAY></WAY>
+		<NOM></NOM>
+		<QUE>Masos</QUE>
+		<X>730735</X>
+		<Y>4443803</Y>
+		<Z>604</Z>
+		<PADRO></PADRO>
+		<FOTOS></FOTOS>
+		<TNE></TNE>
+		<MAP></MAP>
+		<OBS></OBS>
+		<TOPONIM>els Covarxos</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[elskobártxos]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>els Covarxos</NORMAL>
+		<COMENTARIS>     </COMENTARIS>
+		<id>258</id>
+		<lat>40.1110763</lat>
+		<lon>-0.2940269</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Mato</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\mato.JPG</img_foto>
+		<img_foto2>img\mato-1.JPG</img_foto2>
+		<img_foto3>img\mato-3.JPG</img_foto3>
+		<img_foto4>img\mato-4.JPG</img_foto4>
+		<img_foto5>img\mato-5.JPG</img_foto5>
+		<img_foto6>img\mato-6.JPG</img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Mato</NOMP>
+		<WAY>M180</WAY>
+		<NOM>MATO</NOM>
+		<QUE>Masos</QUE>
+		<X>728359</X>
+		<Y>4443832</Y>
+		<Z>842</Z>
+		<PADRO>Mato</PADRO>
+		<FOTOS>Mato</FOTOS>
+		<TNE>Mas Riduelas</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Mato</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelmáto]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>12'5 Km 1 casa Masía de Ferrerola ?</NOMENCLATOR>
+		<NORMAL>Mas del Mato</NORMAL>
+		<COMENTARIS>     </COMENTARIS>
+		<id>259</id>
+		<lat>40.111981</lat>
+		<lon>-0.321866</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Beltrán</BANDO>
+		<registre1893>1829 Masia de Beltran, Mas de Beltran</registre1893>
+		<img_foto>img\beltran.JPG</img_foto>
+		<img_foto2>img\beltran-1.JPG</img_foto2>
+		<img_foto3>img\beltran-2.JPG</img_foto3>
+		<img_foto4>img\beltran-3.JPG</img_foto4>
+		<img_foto5>img\beltran-4.JPG</img_foto5>
+		<img_foto6>img\beltran-5.JPG</img_foto6>
+		<img_foto7>img\beltran-6.JPG</img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Beltran</NOMP>
+		<WAY>M198</WAY>
+		<NOM>BELTRAN</NOM>
+		<QUE>Masos</QUE>
+		<X>732404</X>
+		<Y>4443220</Y>
+		<Z>699</Z>
+		<PADRO>Beltrán (Quaresma)</PADRO>
+		<FOTOS>Beltràn (Quaresma)</FOTOS>
+		<TNE>Mas Beltrán</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Beltrán</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>7'5 Km 3 casas Masía de Beltran</NOMENCLATOR>
+		<NORMAL>Mas de Beltrán</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>262</id>
+		<lat>40.105367</lat>
+		<lon>-0.274675</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Eugenio</BANDO>
+		<registre1893>1764 Mas de Eugenio 66,67</registre1893>
+		<img_foto>img\eugenio.JPG</img_foto>
+		<img_foto2>img\eugenio-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas d'Eugenio</NOMP>
+		<WAY>M200</WAY>
+		<NOM>EUGENIO</NOM>
+		<QUE>Masos</QUE>
+		<X>731236</X>
+		<Y>4442838</Y>
+		<Z>519</Z>
+		<PADRO>Eugeni</PADRO>
+		<FOTOS>Eugeni</FOTOS>
+		<TNE>Mas Eugenio</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas d'Eugenio</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdeuXénio]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>10 Km 1 casa Masía de Eugénio</NOMENCLATOR>
+		<NORMAL>Mas d'Eugenio</NORMAL>
+		<COMENTARIS>sistemàticament amb so castellà [euXénio]</COMENTARIS>
+		<id>267</id>
+		<lat>40.102251</lat>
+		<lon>-0.2885</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Bachero</BANDO>
+		<registre1893>1766 Mas de Bachero 67,69, Masia Bachero</registre1893>
+		<img_foto>img\batxero.JPG</img_foto>
+		<img_foto2>img\batxero-1.JPG</img_foto2>
+		<img_foto3>img\batxero-2.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Batxero</NOMP>
+		<WAY>M203</WAY>
+		<NOM>BATXERO</NOM>
+		<QUE>Masos</QUE>
+		<X>730735</X>
+		<Y>4442468</Y>
+		<Z>638</Z>
+		<PADRO>Batxero</PADRO>
+		<FOTOS>Batxero</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Batxero</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>10 Km 2 casas Masía de Bachero</NOMENCLATOR>
+		<NORMAL>Mas de Batxero</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>274</id>
+		<lat>40.099058</lat>
+		<lon>-0.294503</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Andreu de Dalt</BANDO>
+		<registre1893>1678 Masia Andreu de Dalt</registre1893>
+		<img_foto>img\andreudalt.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas d'Andreu de Dalt</NOMP>
+		<WAY>M226</WAY>
+		<NOM>ANDREUDALT</NOM>
+		<QUE>Masos</QUE>
+		<X>730170</X>
+		<Y>4445351</Y>
+		<Z>770</Z>
+		<PADRO>Andreu de Dalt</PADRO>
+		<FOTOS>Andreu de Dalt</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas d'Andreu de Dalt</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>Mas d'Andreu de Dalt</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>275</id>
+		<lat>40.125158</lat>
+		<lon>-0.300098</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Andreu de Baix</BANDO>
+		<registre1893>1677 Masia de Andreu, 40,39 Mas de Andreu</registre1893>
+		<img_foto>img\andreubaix.JPG</img_foto>
+		<img_foto2>img\andreubaix-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas d'Andreu de Baix</NOMP>
+		<WAY>M192</WAY>
+		<NOM>ANDREU</NOM>
+		<QUE>Masos</QUE>
+		<X>730524</X>
+		<Y>4444936</Y>
+		<Z>659</Z>
+		<PADRO>Andreu de Baix</PADRO>
+		<FOTOS>Andreu de Baix</FOTOS>
+		<TNE>Mas d'Andreu</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas d'Andreu de Baix</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>6'2 Km 6 casas Masías de Andréu</NOMENCLATOR>
+		<NORMAL>Mas d'Andreu de Baix</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>276</id>
+		<lat>40.121327</lat>
+		<lon>-0.296096</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Fonso</BANDO>
+		<registre1893>1738 Masia de Fonso,32,Fonso, Mas de Fonso</registre1893>
+		<img_foto>img\fonso.JPG</img_foto>
+		<img_foto2>img\fonso-1.JPG</img_foto2>
+		<img_foto3>img\fonso-2.JPG</img_foto3>
+		<img_foto4>img\fonso-3.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Fonso</NOMP>
+		<WAY>M202</WAY>
+		<NOM>FONSO</NOM>
+		<QUE>Masos</QUE>
+		<X>729782</X>
+		<Y>4442420</Y>
+		<Z>770</Z>
+		<PADRO>Fonso</PADRO>
+		<FOTOS>Fonso</FOTOS>
+		<TNE>Mas de Alfonso</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas d'Alfonso</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC>másdefónso</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>12'5 Km 5 casas Masía de Fonso</NOMENCLATOR>
+		<NORMAL>Mas d'Alfonso</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>277</id>
+		<lat>40.098887</lat>
+		<lon>-0.305689</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Chuncar</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\junca.JPG</img_foto>
+		<img_foto2>img\junca-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Juncar</NOMP>
+		<WAY>M183</WAY>
+		<NOM>JUNCA</NOM>
+		<QUE>Masos</QUE>
+		<X>728620</X>
+		<Y>4442082</Y>
+		<Z>774</Z>
+		<PADRO>Joncar</PADRO>
+		<FOTOS>Joncar</FOTOS>
+		<TNE>Mas el Xuncar</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>El Juncar</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC>eljunkà / junkà</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>el Juncar</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>280</id>
+		<lat>40.096161</lat>
+		<lon>-0.319425</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Panolla</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\panolla.JPG</img_foto>
+		<img_foto2>img\panolla-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Panolla</NOMP>
+		<WAY>M201</WAY>
+		<NOM>PANOLLA</NOM>
+		<QUE>Masos</QUE>
+		<X>731840</X>
+		<Y>4442939</Y>
+		<Z>690</Z>
+		<PADRO>Panolla</PADRO>
+		<FOTOS>Panoll</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Panolla</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdepanólla]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>5 Km 1 casa Masía de Panolla</NOMENCLATOR>
+		<NORMAL>Mas de Panolla</NORMAL>
+		<COMENTARIS>     </COMENTARIS>
+		<id>281</id>
+		<lat>40.102993</lat>
+		<lon>-0.281385</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Foya La Anou</BANDO>
+		<registre1893>1721 Foya de la Nou, Partida de la Foya de l'Anou</registre1893>
+		<img_foto>img\foianou.JPG</img_foto>
+		<img_foto2>img\foianou-1.JPG</img_foto2>
+		<img_foto3>img\foianou-2.JPG</img_foto3>
+		<img_foto4>img\foianou-3.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Foia de la Nou</NOMP>
+		<WAY>M104</WAY>
+		<NOM>FOIANOU</NOM>
+		<QUE>Masos</QUE>
+		<X>727742</X>
+		<Y>4445197</Y>
+		<Z>857</Z>
+		<PADRO>Foia la Nou</PADRO>
+		<FOTOS>Foia la Nou</FOTOS>
+		<TNE>Casa Felipe</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Casa Felipe</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>Casa de Felipe</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>282</id>
+		<lat>40.124433</lat>
+		<lon>-0.328617</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Aguilera</BANDO>
+		<registre1893>1822 Masia de Aguilera</registre1893>
+		<img_foto>img\aguilera.JPG</img_foto>
+		<img_foto2>img\aguilera-1.JPG</img_foto2>
+		<img_foto3>img\aguilera-2.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas d'Aguilera</NOMP>
+		<WAY>M238</WAY>
+		<NOM>AGUILERA</NOM>
+		<QUE>Masos</QUE>
+		<X>730331</X>
+		<Y>4439827</Y>
+		<Z>457</Z>
+		<PADRO>Aguilera</PADRO>
+		<FOTOS>Aguilera</FOTOS>
+		<TNE>Cueva Aguilera</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas d'Aguilera</TOPONIM>
+		<MAPA>615(3-3)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdagiléra]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>15 Km 1 casa Masía de Aguilera</NOMENCLATOR>
+		<NORMAL>Mas d'Aguilera</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>290</id>
+		<lat>40.075401</lat>
+		<lon>-0.300178</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Gual</BANDO>
+		<registre1893>1823 Masia Gual, Masia de Gual</registre1893>
+		<img_foto>img\gual.JPG</img_foto>
+		<img_foto2>img\gual-1.JPG</img_foto2>
+		<img_foto3>img\gual-2.JPG</img_foto3>
+		<img_foto4>img\gual-3.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Gual</NOMP>
+		<WAY>M214</WAY>
+		<NOM>GUAL</NOM>
+		<QUE>Masos</QUE>
+		<X>730984</X>
+		<Y>4440698</Y>
+		<Z>506</Z>
+		<PADRO>Gual</PADRO>
+		<FOTOS>Gual</FOTOS>
+		<TNE></TNE>
+		<MAP>615-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Gual</TOPONIM>
+		<MAPA>615(3-3)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdeuál]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>15 Km 1 casa Caseta de Gual</NOMENCLATOR>
+		<NORMAL>Mas de Gual</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>294</id>
+		<lat>40.083061</lat>
+		<lon>-0.292217</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Perchano</BANDO>
+		<registre1893>1794 Masia del Perchano</registre1893>
+		<img_foto>img\pertxano.JPG</img_foto>
+		<img_foto2>img\pertxano-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Perxano</NOMP>
+		<WAY>M210</WAY>
+		<NOM>PERTXANO</NOM>
+		<QUE>Masos</QUE>
+		<X>728241</X>
+		<Y>4440333</Y>
+		<Z>762</Z>
+		<PADRO>Perxano</PADRO>
+		<FOTOS>Perxano</FOTOS>
+		<TNE>Mas del Perchano</TNE>
+		<MAP>615-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Perxano</TOPONIM>
+		<MAPA>615(3-3)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelpertxáno]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>Mas del Perxano</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>301</id>
+		<lat>40.080523</lat>
+		<lon>-0.324484</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Moro</BANDO>
+		<registre1893>1798 Masia del Moro</registre1893>
+		<img_foto>img\moro.JPG</img_foto>
+		<img_foto2>img\moro-1.JPG</img_foto2>
+		<img_foto3>img\moro-2.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Moro</NOMP>
+		<WAY>M211</WAY>
+		<NOM>MORO</NOM>
+		<QUE>Masos</QUE>
+		<X>728795</X>
+		<Y>4439867</Y>
+		<Z>735</Z>
+		<PADRO>Moro</PADRO>
+		<FOTOS>Moro</FOTOS>
+		<TNE>Mas del Moro</TNE>
+		<MAP>615-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Moro</TOPONIM>
+		<MAPA>615(3-3)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelmòro]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>15 Km 8 casas Masía del Moro</NOMENCLATOR>
+		<NORMAL>Mas del Moro</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>303</id>
+		<lat>40.076179</lat>
+		<lon>-0.318158</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Cabezo Roig</BANDO>
+		<registre1893>1815 Masia del Cabezo, Masia del Cabezo Roig</registre1893>
+		<img_foto>img\cabesoroig-mas.JPG</img_foto>
+		<img_foto2>img\cabesoroig-1.JPG</img_foto2>
+		<img_foto3>img\cabesoroig-2.JPG</img_foto3>
+		<img_foto4>img\cabesoroig-3.JPG</img_foto4>
+		<img_foto5>img\cabesoroig-4.JPG</img_foto5>
+		<img_foto6>img\cabesoroig-5.JPG</img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Cabeço Roig</NOMP>
+		<WAY>M353</WAY>
+		<NOM>CABESOROIG</NOM>
+		<QUE>Masos</QUE>
+		<X>730275</X>
+		<Y>4438785</Y>
+		<Z>637</Z>
+		<PADRO></PADRO>
+		<FOTOS></FOTOS>
+		<TNE></TNE>
+		<MAP>615-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Cabeço Roig</TOPONIM>
+		<MAPA>615(3-3)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelkabésorròtx]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>17'5 Km 2 casas Masía del Cabezo Roig</NOMENCLATOR>
+		<NORMAL>Mas del Cabeço Roig</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>306</id>
+		<lat>40.066039</lat>
+		<lon>-0.301204</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Solanes Morral</BANDO>
+		<registre1893>793 Masia Solana Morral, Solana del Morral</registre1893>
+		<img_foto>img\SOLANES.JPG</img_foto>
+		<img_foto2>img\solanes 1.JPG</img_foto2>
+		<img_foto3>img\solanes-2.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de les Solanes del Morral</NOMP>
+		<WAY>M164</WAY>
+		<NOM>SOLANES</NOM>
+		<QUE>Masos</QUE>
+		<X>734047</X>
+		<Y>4446139</Y>
+		<Z>465</Z>
+		<PADRO>Solanes Morral</PADRO>
+		<FOTOS>Solanes</FOTOS>
+		<TNE>Mas Nou</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>el Mas Nou</TOPONIM>
+		<MAPA>615(4-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>3'7 Km 7 casas Masía de les Solánes</NOMENCLATOR>
+		<NORMAL>el Mas Nou</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>311</id>
+		<lat>40.13118</lat>
+		<lon>-0.254362</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Camrredó Baix</BANDO>
+		<registre1893>1147 Masia Camrredó de Baix</registre1893>
+		<img_foto>img\campredo baix.JPG</img_foto>
+		<img_foto2>img\campredo baix-1.JPG</img_foto2>
+		<img_foto3>img\campredo baix-2.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Camp Redó de Baix</NOMP>
+		<WAY>M147</WAY>
+		<NOM>CAMPREDOBA</NOM>
+		<QUE>Masos</QUE>
+		<X>733269</X>
+		<Y>4449546</Y>
+		<Z>762</Z>
+		<PADRO>Campredó de Baix</PADRO>
+		<FOTOS>Campredó de  Baix</FOTOS>
+		<TNE>Mas Camp Redó de Baix</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Camp Redó de Baix</TOPONIM>
+		<MAPA>615(4-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelkambredódebáis]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>7'5 Km 5 casas Masía del Campredó</NOMENCLATOR>
+		<NORMAL>Mas del Camp Redó de Baix</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>313</id>
+		<lat>40.162057</lat>
+		<lon>-0.262252</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Parra</BANDO>
+		<registre1893>859 Masia Parra, La Parra, de la Parra</registre1893>
+		<img_foto>img\parra.JPG</img_foto>
+		<img_foto2>img\parra 1.JPG</img_foto2>
+		<img_foto3>img\parra 2.JPG</img_foto3>
+		<img_foto4>img\parra 3.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Parra</NOMP>
+		<WAY>M155</WAY>
+		<NOM>PARRA</NOM>
+		<QUE>Masos</QUE>
+		<X>734812</X>
+		<Y>4448539</Y>
+		<Z>735</Z>
+		<PADRO>Parra</PADRO>
+		<FOTOS>Parra</FOTOS>
+		<TNE>Mas de la Parra</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de la Parra</TOPONIM>
+		<MAPA>615(4-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelapárra]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>7'5 Km 5 casas Masía de la Parra</NOMENCLATOR>
+		<NORMAL>Mas de la Parra</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>317</id>
+		<lat>40.152565</lat>
+		<lon>-0.24452</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Serra</BANDO>
+		<registre1893>911 Mas de la Serra</registre1893>
+		<img_foto>img\serra.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Serra</NOMP>
+		<WAY>M177</WAY>
+		<NOM>SERRA</NOM>
+		<QUE>Masos</QUE>
+		<X>737606</X>
+		<Y>4449224</Y>
+		<Z>756</Z>
+		<PADRO>Serra</PADRO>
+		<FOTOS>Serra</FOTOS>
+		<TNE>Mas de la Serra</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de la Serra</TOPONIM>
+		<MAPA>615(4-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelasèrra]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>15 Km 1 casa Masía de la Serra</NOMENCLATOR>
+		<NORMAL>Mas de la Serra</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>318</id>
+		<lat>40.157944</lat>
+		<lon>-0.211502</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Tosquella</BANDO>
+		<registre1893>896 Mas de la Tosquella</registre1893>
+		<img_foto>img\tosquella.JPG</img_foto>
+		<img_foto2>img\tosquella 1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Tosquella</NOMP>
+		<WAY>M169</WAY>
+		<NOM>TOSQUELLA</NOM>
+		<QUE>Masos</QUE>
+		<X>736434</X>
+		<Y>4448655</Y>
+		<Z>621</Z>
+		<PADRO>Tosquella</PADRO>
+		<FOTOS>Tosquella</FOTOS>
+		<TNE>Mas de la Tosquella</TNE>
+		<MAP>615-II</MAP>
+		<OBS>Hi ha dos Tosquella Chacón i Tosquella de Maria, Mas de Chacón.</OBS>
+		<TOPONIM>Mas de la Tosquella</TOPONIM>
+		<MAPA>615(4-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelatoskélla]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>10 Km 2 casas Masía de la Tosquella de Chacon</NOMENCLATOR>
+		<NORMAL>Mas de la Tosquella</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>319</id>
+		<lat>40.153154</lat>
+		<lon>-0.225456</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Traguanta</BANDO>
+		<registre1893>900 Masia de la Traguanta, Traguantas</registre1893>
+		<img_foto>img\traguanta.JPG</img_foto>
+		<img_foto2>img\traguanta 1.JPG</img_foto2>
+		<img_foto3>img\traguanta 2.JPG</img_foto3>
+		<img_foto4>img\traguanta 3.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Traguanta</NOMP>
+		<WAY>M352</WAY>
+		<NOM>TRAUANTA</NOM>
+		<QUE>Masos</QUE>
+		<X>737995</X>
+		<Y>4448313</Y>
+		<Z>620</Z>
+		<PADRO></PADRO>
+		<FOTOS></FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de la Trauanta</TOPONIM>
+		<MAPA>615(4-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelatrauánta]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>15 Km 8 casas Masía de la Traguanta</NOMENCLATOR>
+		<NORMAL>Mas de la Trauanta</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>320</id>
+		<lat>40.149636</lat>
+		<lon>-0.207276</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Miralles</BANDO>
+		<registre1893>842 Masia Miralles</registre1893>
+		<img_foto>img\miralles.JPG</img_foto>
+		<img_foto2>img\miralles-2.JPG</img_foto2>
+		<img_foto3>img\miralles-4.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Miralles</NOMP>
+		<WAY>M154</WAY>
+		<NOM>MIRALLES</NOM>
+		<QUE>Masos</QUE>
+		<X>734562</X>
+		<Y>4448094</Y>
+		<Z>733</Z>
+		<PADRO>Miralles</PADRO>
+		<FOTOS>Miralles</FOTOS>
+		<TNE>Mas Miralles</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Miralles</TOPONIM>
+		<MAPA>615(4-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdemirálles]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>6'3 Km 3 casas Masía de Juan Miralles</NOMENCLATOR>
+		<NORMAL>Mas de Miralles</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>322</id>
+		<lat>40.14863</lat>
+		<lon>-0.247614</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Chiva</BANDO>
+		<registre1893>818 Masia Collet de Chiva, de Chiva</registre1893>
+		<img_foto>img\xiva.JPG</img_foto>
+		<img_foto2>img\xiva 4.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Xiva</NOMP>
+		<WAY>M157</WAY>
+		<NOM>XIVA</NOM>
+		<QUE>Masos</QUE>
+		<X>733564</X>
+		<Y>4447481</Y>
+		<Z>633</Z>
+		<PADRO>Xiva</PADRO>
+		<FOTOS>Xiva</FOTOS>
+		<TNE>Mas de Chiva</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Xiva</TOPONIM>
+		<MAPA>615(4-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdetxíba]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>5 Km 4 casas Masía de Chiva</NOMENCLATOR>
+		<NORMAL>Mas de Xiva</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>324</id>
+		<lat>40.143392</lat>
+		<lon>-0.259539</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Camrredo Dalt</BANDO>
+		<registre1893>1144  Masia Camrredó, de Camredo</registre1893>
+		<img_foto>img\campredo dalt.JPG</img_foto>
+		<img_foto2>img\campredo dalt-1.JPG</img_foto2>
+		<img_foto3>img\campredo dalt-3.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Camp Redó de Dalt</NOMP>
+		<WAY>M146</WAY>
+		<NOM>CAMPREDODA</NOM>
+		<QUE>Masos</QUE>
+		<X>733245</X>
+		<Y>4449939</Y>
+		<Z>777</Z>
+		<PADRO>Campredó de Dalt (Gualeta)</PADRO>
+		<FOTOS>Campredó de Dalt (Gualeta)</FOTOS>
+		<TNE>Mas Camp Redó de d'Alt</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Camp Redó de Dalt</TOPONIM>
+		<MAPA>615(4-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelkambredódedál]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>7'5 Km 2 casas Masía de la Gualeta</NOMENCLATOR>
+		<NORMAL>Mas del Camp Redó de Dalt</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>326</id>
+		<lat>40.1656</lat>
+		<lon>-0.262391</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Morral</BANDO>
+		<registre1893>802 Masia del Morral</registre1893>
+		<img_foto>img\morral.JPG</img_foto>
+		<img_foto2>img\morral1.JPG</img_foto2>
+		<img_foto3>img\morral-2.JPG</img_foto3>
+		<img_foto4>img\morral-3.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Morral</NOMP>
+		<WAY>M163</WAY>
+		<NOM>MORRAL</NOM>
+		<QUE>Masos</QUE>
+		<X>734800</X>
+		<Y>4446603</Y>
+		<Z>746</Z>
+		<PADRO>Morral</PADRO>
+		<FOTOS>Morral de Baix</FOTOS>
+		<TNE>Mas del Morral</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Morral</TOPONIM>
+		<MAPA>615(4-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelmorrál]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>7'5 Km 2 casas Masía del Morral</NOMENCLATOR>
+		<NORMAL>Mas del Morral</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>327</id>
+		<lat>40.135146</lat>
+		<lon>-0.245365</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Povill</BANDO>
+		<registre1893>871 Mas del Povill</registre1893>
+		<img_foto>img\pobill.JPG</img_foto>
+		<img_foto2>img\pobill 1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Pobill</NOMP>
+		<WAY>M170</WAY>
+		<NOM>POBILL</NOM>
+		<QUE>Masos</QUE>
+		<X>735315</X>
+		<Y>4448291</Y>
+		<Z>708</Z>
+		<PADRO>Pobill</PADRO>
+		<FOTOS>Pobill</FOTOS>
+		<TNE>Mas el Povil</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Pubill</TOPONIM>
+		<MAPA>615(4-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelpobíll]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>7'5 Km 5 casas Masía del Povill</NOMENCLATOR>
+		<NORMAL>Mas del Pobill</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>328</id>
+		<lat>40.150193</lat>
+		<lon>-0.238712</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Molino Panizares</BANDO>
+		<registre1893>1925 Partida del Molino Panizares</registre1893>
+		<img_foto>img\panisares.JPG</img_foto>
+		<img_foto2>img\panisares-1.JPG</img_foto2>
+		<img_foto3>img\panisares-2.JPG</img_foto3>
+		<img_foto4>img\panisares-3.JPG</img_foto4>
+		<img_foto5>img\panisares-4.JPG</img_foto5>
+		<img_foto6>img\panisares-5.JPG</img_foto6>
+		<img_foto7>img\panisares-6.JPG</img_foto7>
+		<img_foto8>img\panisares-7.JPG</img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Molí de Panisares</NOMP>
+		<WAY>M166</WAY>
+		<NOM>PANISARE.M</NOM>
+		<QUE>Masos</QUE>
+		<X>733258</X>
+		<Y>4446027</Y>
+		<Z>394</Z>
+		<PADRO>Molí Panissares</PADRO>
+		<FOTOS>Molí Panissares</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Molí de Panissares</TOPONIM>
+		<MAPA>615(4-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[molípanisáres]</TRANSC>
+		<CLAU>20205</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>3'1 Km 1 casa Molino de Panizáres</NOMENCLATOR>
+		<NORMAL>Molí de Panissares</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>329</id>
+		<lat>40.130392</lat>
+		<lon>-0.263653</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Campiello</BANDO>
+		<registre1893>881 Masia del Campiello</registre1893>
+		<img_foto>img\campillo.JPG</img_foto>
+		<img_foto2>img\campillo 1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Campiello</NOMP>
+		<WAY>M173</WAY>
+		<NOM>CAMPILLO</NOM>
+		<QUE>Masos</QUE>
+		<X>736000</X>
+		<Y>4447616</Y>
+		<Z>710</Z>
+		<PADRO>Campiello</PADRO>
+		<FOTOS>Campiello</FOTOS>
+		<TNE>Mas del Campillo</TNE>
+		<MAP>615-II</MAP>
+		<OBS>Aquest mas fore propietat de la familia Villalonga, actualment es de Miguel Fores.</OBS>
+		<TOPONIM>Mas de Villalonga</TOPONIM>
+		<MAPA>615(4-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdebillalónga]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>11'5 Km 2 casas Masía del Campiello</NOMENCLATOR>
+		<NORMAL>Mas de Villalonga</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>337</id>
+		<lat>40.143926</lat>
+		<lon>-0.230926</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Mosquera</BANDO>
+		<registre1893>1154 Masia Mosquera, 249,7, Masia de la Mosquera</registre1893>
+		<img_foto>img\mosquera dalt.JPG</img_foto>
+		<img_foto2>img\mosquera dalt-1.JPG</img_foto2>
+		<img_foto3>img\mosquera dalt-3.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Mosquera de Dalt</NOMP>
+		<WAY>M152</WAY>
+		<NOM>MOSQUERAD</NOM>
+		<QUE>Masos</QUE>
+		<X>733105</X>
+		<Y>4448833</Y>
+		<Z>681</Z>
+		<PADRO>Mosquera de Dalt</PADRO>
+		<FOTOS>Mosquera de Dalt</FOTOS>
+		<TNE>Mas Mosquera</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de la Mosquera</TOPONIM>
+		<MAPA>615(4-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelamoskéra]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>7'5 Km 6 casas Masía de la Mosquera</NOMENCLATOR>
+		<NORMAL>Mas de la Mosquera</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>344</id>
+		<lat>40.155686</lat>
+		<lon>-0.264433</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Lloma Campiello</BANDO>
+		<registre1893>879 Masia de la Lloma del Campiello</registre1893>
+		<img_foto>img\lloma campillo.JPG</img_foto>
+		<img_foto2>img\lloma campillo-1.JPG</img_foto2>
+		<img_foto3>img\lloma campillo-2.JPG</img_foto3>
+		<img_foto4>img\lloma campillo-3.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Lloma del Morral</NOMP>
+		<WAY>M174</WAY>
+		<NOM>LLOMA</NOM>
+		<QUE>Masos</QUE>
+		<X>735456</X>
+		<Y>4447416</Y>
+		<Z>795</Z>
+		<PADRO>Lloma Morral</PADRO>
+		<FOTOS>Lloma Morral</FOTOS>
+		<TNE>Mas de la Lloma</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de la Lloma del Campiello</TOPONIM>
+		<MAPA>615(4-1)</MAPA>
+		<NUM>87</NUM>
+		<TRANSC>[mázdelallóma]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>Mas de la Lloma</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>347</id>
+		<lat>40.142279</lat>
+		<lon>-0.237378</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Corral Mosquera</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\nofoto.png</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Corral de la Mosquera</NOMP>
+		<WAY>M150</WAY>
+		<NOM>MOSQUERA.C</NOM>
+		<QUE>Masos</QUE>
+		<X>734107</X>
+		<Y>4449597</Y>
+		<Z>725</Z>
+		<PADRO>Corral Mosquera</PADRO>
+		<FOTOS>Corral Mosquera</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Corral de la Mosquera</TOPONIM>
+		<MAPA>615(4-1)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[korráldelamoskéra]</TRANSC>
+		<CLAU>10402</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL>Corral de la Mosquera</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>350</id>
+		<lat>40.162282</lat>
+		<lon>-0.252404</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Guardamar</BANDO>
+		<registre1893>1885 Masia Guardamar 125,147 Mas de Guardamar</registre1893>
+		<img_foto>img\guardama dalt.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Guardamar de Dalt</NOMP>
+		<WAY>M195</WAY>
+		<NOM>GUARDAMAD</NOM>
+		<QUE>Masos</QUE>
+		<X>732999</X>
+		<Y>4444732</Y>
+		<Z>674</Z>
+		<PADRO>Guardamar de Dalt</PADRO>
+		<FOTOS>Guardamà de Dalt</FOTOS>
+		<TNE>Mas Guardamar</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Guardamà</TOPONIM>
+		<MAPA>615(4-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdeguardamá]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>7'5 Km 3 casas Masía de Guardamar</NOMENCLATOR>
+		<NORMAL>Mas de Guardamar</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>358</id>
+		<lat>40.118809</lat>
+		<lon>-0.267156</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Rosalea</BANDO>
+		<registre1893>1893 Masia Rosalea 129</registre1893>
+		<img_foto>img\ROSALEA.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Rosalea</NOMP>
+		<WAY>M207</WAY>
+		<NOM>ROSALEA</NOM>
+		<QUE>Masos</QUE>
+		<X>733530</X>
+		<Y>4443549</Y>
+		<Z>645</Z>
+		<PADRO>Rosalea</PADRO>
+		<FOTOS>Rosalea</FOTOS>
+		<TNE>Mas Rosaleda</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de la Rosaleda</TOPONIM>
+		<MAPA>615(4-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[mázdelarrosaléda]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>10 Km 2 casas Masía del Róure o Rosalea</NOMENCLATOR>
+		<NORMAL>Mas de la Rosaleda</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>366</id>
+		<lat>40.108016</lat>
+		<lon>-0.261359</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Torremundo</BANDO>
+		<registre1893>1901 Masia Torremundo, de Torremundo</registre1893>
+		<img_foto>img\torremundo.JPG</img_foto>
+		<img_foto2>img\torremundo-1.JPG</img_foto2>
+		<img_foto3>img\torremundo-2.JPG</img_foto3>
+		<img_foto4>img\torremundo-10.JPG</img_foto4>
+		<img_foto5>img\torremundo-11.JPG</img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Torremundo</NOMP>
+		<WAY>M209</WAY>
+		<NOM>TORREMUNDO</NOM>
+		<QUE>Masos</QUE>
+		<X>734830</X>
+		<Y>4443348</Y>
+		<Z>464</Z>
+		<PADRO>Torremundo</PADRO>
+		<FOTOS>Torremundo</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS>Casa Soledad</OBS>
+		<TOPONIM>Casa de Torremundo</TOPONIM>
+		<MAPA>615(4-2)</MAPA>
+		<NUM></NUM>
+		<TRANSC>[kázadetorremúndo]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>10 Km 5 casas Masía de la Torremundo</NOMENCLATOR>
+		<NORMAL>Casa de Torremundo</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>370</id>
+		<lat>40.105846</lat>
+		<lon>-0.246196</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Collet Baix</BANDO>
+		<registre1893>1078 Masia Collet de Baix, del Collet</registre1893>
+		<img_foto>img\collet baix.JPG</img_foto>
+		<img_foto2>img\collet baix 1.JPG</img_foto2>
+		<img_foto3>img\collet baix 2.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Collet de Baix</NOMP>
+		<WAY>M31</WAY>
+		<NOM>COLLET1</NOM>
+		<QUE>Masos</QUE>
+		<X>732798</X>
+		<Y>4452665</Y>
+		<Z>920</Z>
+		<PADRO>Collet de Baix</PADRO>
+		<FOTOS>Collet de Baix</FOTOS>
+		<TNE>Mas del Collet</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Collet de Baix</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM>7</NUM>
+		<TRANSC>[mázdelkollét]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>13'7 Km  2 casas Masía del Collet de báix</NOMENCLATOR>
+		<NORMAL>Mas del Collet</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>385</id>
+		<lat>40.190256</lat>
+		<lon>-0.266649</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Collet Dalt</BANDO>
+		<registre1893>1081 Masia Collet de Dalt</registre1893>
+		<img_foto>img\collet dalt 1.JPG</img_foto>
+		<img_foto2>img\collet dalt 2.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Collet de Dalt</NOMP>
+		<WAY></WAY>
+		<NOM>COLLET3</NOM>
+		<QUE>Masos</QUE>
+		<X>732947</X>
+		<Y>4453031</Y>
+		<Z>975</Z>
+		<PADRO>Collet de Dalt</PADRO>
+		<FOTOS>Collet de Dalt</FOTOS>
+		<TNE></TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Collet de Dalt</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM>18</NUM>
+		<TRANSC>[mázdelkollét]</TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>15 Km  1 casa  Masía del Collet de dalt</NOMENCLATOR>
+		<NORMAL>Mas del Collet</NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>396</id>
+		<lat>40.193508</lat>
+		<lon>-0.264769</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Chuncaret</BANDO>
+		<registre1893>1046 Masia del Chuncaret</registre1893>
+		<img_foto>img\juncaret.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Joncaret</NOMP>
+		<WAY>M48</WAY>
+		<NOM>JUNCARET</NOM>
+		<QUE>Masos</QUE>
+		<X>733998</X>
+		<Y>4452699</Y>
+		<Z>726</Z>
+		<PADRO>Joncaret</PADRO>
+		<FOTOS>Joncaret</FOTOS>
+		<TNE></TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Joncaret</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM>33</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>12'5 Km 1 casa Masía del Chuncaret</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>411</id>
+		<lat>40.190228</lat>
+		<lon>-0.252556</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Torre-Felip</BANDO>
+		<registre1893>1038 Masia Torre Felipe, Torre Felip</registre1893>
+		<img_foto>img\torre felip.JPG</img_foto>
+		<img_foto2>img\torre felip 1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas Torre Felip</NOMP>
+		<WAY>M57</WAY>
+		<NOM>TORREFELIP</NOM>
+		<QUE>Masos</QUE>
+		<X>735330</X>
+		<Y>4453764</Y>
+		<Z>624</Z>
+		<PADRO>Torre Felip</PADRO>
+		<FOTOS>Torre Felip</FOTOS>
+		<TNE>Mas de la Torre</TNE>
+		<MAP>592-IV</MAP>
+		<OBS>Benjamin de la Torre Felip</OBS>
+		<TOPONIM>la Torre Felip</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM>43</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>15 Km 2 casas Masía de la Torre de Felip</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>421</id>
+		<lat>40.199439</lat>
+		<lon>-0.236537</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Coves</BANDO>
+		<registre1893>1021 Masia de les Coves (Torrozelles), 191</registre1893>
+		<img_foto>img\coves.JPG</img_foto>
+		<img_foto2>img\coves-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Coves</NOMP>
+		<WAY>M273</WAY>
+		<NOM>COVES</NOM>
+		<QUE>Masos</QUE>
+		<X>736242</X>
+		<Y>4453843</Y>
+		<Z>594</Z>
+		<PADRO>Coves</PADRO>
+		<FOTOS>Les Coves</FOTOS>
+		<TNE></TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Coves</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM>52</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>15 Km 1 casa Masía de Cóves</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>430</id>
+		<lat>40.199894</lat>
+		<lon>-0.225805</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Constante</BANDO>
+		<registre1893>978 Masia Constante 165</registre1893>
+		<img_foto>img\constante.JPG</img_foto>
+		<img_foto2>img\constante-1.JPG</img_foto2>
+		<img_foto3>img\constante-2.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Constante</NOMP>
+		<WAY>M269</WAY>
+		<NOM>CONSTANTE</NOM>
+		<QUE>Masos</QUE>
+		<X>735304</X>
+		<Y>4450652</Y>
+		<Z>671</Z>
+		<PADRO>Constante</PADRO>
+		<FOTOS>Constante</FOTOS>
+		<TNE></TNE>
+		<MAP>592-IV</MAP>
+		<OBS>Casa el Constante</OBS>
+		<TOPONIM>Maset de Constante</TOPONIM>
+		<MAPA>592(4-4)</MAPA>
+		<NUM>92</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>10 Km 1 casa Masía del Constante</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>469</id>
+		<lat>40.171442</lat>
+		<lon>-0.237979</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>07/09/2005</FECHA>
+		<BANDO>Pla Vilar</BANDO>
+		<registre1893>1403 Masia Pla del Vilar</registre1893>
+		<img_foto>img\PLAVILA.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Plà de Vilar</NOMP>
+		<WAY>M77</WAY>
+		<NOM>PLAVILAR</NOM>
+		<QUE>Masos</QUE>
+		<X>726211</X>
+		<Y>4449738</Y>
+		<Z>715</Z>
+		<PADRO>Pla Vilar</PADRO>
+		<FOTOS>Pla Vilar</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Plà de Vilar</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM>6</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>12'5 Km 1 casa Masía del Plá de Vilar</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>529</id>
+		<lat>40.165714</lat>
+		<lon>-0.344974</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>07/09/2005</FECHA>
+		<BANDO>Nebot</BANDO>
+		<registre1893>1522 Masia Nebot, de Nebot</registre1893>
+		<img_foto>img\NEBOT.JPG</img_foto>
+		<img_foto2>img\NEBOT1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Nebot</NOMP>
+		<WAY>M81</WAY>
+		<NOM>NEBOT</NOM>
+		<QUE>Masos</QUE>
+		<X>726412</X>
+		<Y>4449341</Y>
+		<Z>759</Z>
+		<PADRO>Nebot</PADRO>
+		<FOTOS>Nebot</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Nebot</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM>13</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>536</id>
+		<lat>40.162087</lat>
+		<lon>-0.342756</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>07/09/2005</FECHA>
+		<BANDO>Pla Volta</BANDO>
+		<registre1893>1404 Masia Pla de la Volta</registre1893>
+		<img_foto>img\PLAVOLTA.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Plà de la Volta</NOMP>
+		<WAY>M79</WAY>
+		<NOM>PLAVOLTA</NOM>
+		<QUE>Masos</QUE>
+		<X>726788</X>
+		<Y>4449530</Y>
+		<Z>700</Z>
+		<PADRO>Pla Volta</PADRO>
+		<FOTOS>Pla Volta</FOTOS>
+		<TNE>Mas del Pla de la Volta</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Plà de la Volta</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM>16</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>11'2 Km 1 casa Masía del Plá de la Volta</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>539</id>
+		<lat>40.163686</lat>
+		<lon>-0.338279</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>07/09/2005</FECHA>
+		<BANDO>Tortosa</BANDO>
+		<registre1893>1405 Masia Tortosa</registre1893>
+		<img_foto>img\TORTOSA.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Tortosa</NOMP>
+		<WAY>M78</WAY>
+		<NOM>TORTOSA</NOM>
+		<QUE>Masos</QUE>
+		<X>726883</X>
+		<Y>4449786</Y>
+		<Z>824</Z>
+		<PADRO>Tortosa</PADRO>
+		<FOTOS>Tortosa</FOTOS>
+		<TNE>Mas de Tortosa</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Tortosa</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM>18</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>541</id>
+		<lat>40.165965</lat>
+		<lon>-0.337074</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Pere</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\pere.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Pere</NOMP>
+		<WAY>M120</WAY>
+		<NOM>PERE</NOM>
+		<QUE>Masos</QUE>
+		<X>731663</X>
+		<Y>4448287</Y>
+		<Z>508</Z>
+		<PADRO>Pere</PADRO>
+		<FOTOS>Pere</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Pere</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM>110</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>632</id>
+		<lat>40.151171</lat>
+		<lon>-0.281542</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Custodi</BANDO>
+		<registre1893>1429 Masia de Custodi</registre1893>
+		<img_foto>img\custori.JPG</img_foto>
+		<img_foto2>img\curstori-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Custodi</NOMP>
+		<WAY>M118</WAY>
+		<NOM>CUSTODI</NOM>
+		<QUE>Masos</QUE>
+		<X>731154</X>
+		<Y>4448464</Y>
+		<Z>482</Z>
+		<PADRO>Custodi</PADRO>
+		<FOTOS>Custodi</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Custodi</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM>129</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>2 Km 3 casas Masía de Custodi</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>651</id>
+		<lat>40.152904</lat>
+		<lon>-0.287447</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Molino Azud</BANDO>
+		<registre1893>1244 Masia Azud</registre1893>
+		<img_foto>img\nofoto.png</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Molí l'Assut</NOMP>
+		<WAY>M119</WAY>
+		<NOM>ASSUT.M</NOM>
+		<QUE>Masos</QUE>
+		<X>731534</X>
+		<Y>4448244</Y>
+		<Z>493</Z>
+		<PADRO>Molí Assut</PADRO>
+		<FOTOS>Assut</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS>Assut: Resclosa de poca alçària que es fa en rius i en rierols per detindre les aigües i fer-ne pujar el nivell.</OBS>
+		<TOPONIM>Molí l'Assut</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM>133</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>20205</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>2'5 Km 1 casa Molino del Azud</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>655</id>
+		<lat>40.150819</lat>
+		<lon>-0.28307</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Masia Tolino</BANDO>
+		<registre1893>1459 Masia de Tolino, 102</registre1893>
+		<img_foto>img\tolino.JPG</img_foto>
+		<img_foto2>img\tolino-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Tolino</NOMP>
+		<WAY>M130</WAY>
+		<NOM>TOLINO</NOM>
+		<QUE>Masos</QUE>
+		<X>730576</X>
+		<Y>4447561</Y>
+		<Z>600</Z>
+		<PADRO>Tolino</PADRO>
+		<FOTOS>Tolino</FOTOS>
+		<TNE>Mas de Tolino</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Tolino</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM>153</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>4'3 Km 8 casas Masía de Tolino</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>675</id>
+		<lat>40.144936</lat>
+		<lon>-0.294549</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Molino Tonero</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\nofoto.png</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Molí del Tonero</NOMP>
+		<WAY>M131</WAY>
+		<NOM>TONERO.M</NOM>
+		<QUE>Masos</QUE>
+		<X>732278</X>
+		<Y>4447136</Y>
+		<Z>448</Z>
+		<PADRO>Molí Tonero</PADRO>
+		<FOTOS>Molí Tonero</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Molí del Tonero</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM>175</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>20205</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>697</id>
+		<lat>40.140643</lat>
+		<lon>-0.274743</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Molino Puente</BANDO>
+		<registre1893>777 Partida Puente</registre1893>
+		<img_foto>img\nofoto.png</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Molí del Pont</NOMP>
+		<WAY>M132</WAY>
+		<NOM>PONT.M</NOM>
+		<QUE>Masos</QUE>
+		<X>732250</X>
+		<Y>4447109</Y>
+		<Z>433</Z>
+		<PADRO>Molí del Pont</PADRO>
+		<FOTOS>Vell (Doloretes)</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS>PONT :  Obra de fàbrica, estructura metál·lica, etc., sobre la qual una via de comunicació pot salvar una depressió o un obstacle (riu, barranc, etc.) o creuar una altra via de comunicació a nivell inferior.</OBS>
+		<TOPONIM>Molí del Pon</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM>176</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>20205</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>1'2 Km 2 casas Molino del Puente</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>698</id>
+		<lat>40.140408</lat>
+		<lon>-0.275081</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Molino Batán</BANDO>
+		<registre1893>782 Partida del Batà</registre1893>
+		<img_foto>img\nofoto.png</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Molí Batà</NOMP>
+		<WAY>M137</WAY>
+		<NOM>BATA.M</NOM>
+		<QUE>Masos</QUE>
+		<X>732557</X>
+		<Y>4446546</Y>
+		<Z>406</Z>
+		<PADRO>Molí Batà</PADRO>
+		<FOTOS>Batà (Porró)</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS>També conegut com Molí Porró, per l'apodo del seu propietari actual: Rafael Miralles Nebot, fill de Juan de Porró</OBS>
+		<TOPONIM>Molí Batà</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM>184</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>20205</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>1'8 Km 1 casa Batan (El)</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>706</id>
+		<lat>40.135256</lat>
+		<lon>-0.271684</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Molino Pedreñera</BANDO>
+		<registre1893>1450 Molino Harinero en la Pedreñera</registre1893>
+		<img_foto>img\nofoto.png</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Molí de la Pedrenyera</NOMP>
+		<WAY>M136</WAY>
+		<NOM>PEDRENYE.M</NOM>
+		<QUE>Masos</QUE>
+		<X>731475</X>
+		<Y>4446735</Y>
+		<Z>537</Z>
+		<PADRO>Molí Pedrenyera</PADRO>
+		<FOTOS>Molí Pedrenyera</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Molí de la Pedrenyera</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM>205</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>20205</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>727</id>
+		<lat>40.137256</lat>
+		<lon>-0.284303</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Oms</BANDO>
+		<registre1893>1669 Partida dels Oms</registre1893>
+		<img_foto>img\oms.JPG</img_foto>
+		<img_foto2>img\oms-1.JPG</img_foto2>
+		<img_foto3>img\oms-2.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas dels Oms</NOMP>
+		<WAY>M140</WAY>
+		<NOM>OMS</NOM>
+		<QUE>Masos</QUE>
+		<X>730837</X>
+		<Y>4445966</Y>
+		<Z>698</Z>
+		<PADRO>Oms</PADRO>
+		<FOTOS>Oms</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas dels Oms</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM>233</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>755</id>
+		<lat>40.13051</lat>
+		<lon>-0.292059</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Hostalet</BANDO>
+		<registre1893>1671 Masia Hostalet, del Hostalet</registre1893>
+		<img_foto>img\hostalet.JPG</img_foto>
+		<img_foto2>img\hostalet-1.JPG</img_foto2>
+		<img_foto3>img\hostalet-2.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de l'Hostalet</NOMP>
+		<WAY>M139</WAY>
+		<NOM>HOSTALET</NOM>
+		<QUE>Masos</QUE>
+		<X>729975</X>
+		<Y>4446090</Y>
+		<Z>839</Z>
+		<PADRO>Hostalet</PADRO>
+		<FOTOS>Hostalet</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de l'Hostalet</TOPONIM>
+		<MAPA>615(3-1)</MAPA>
+		<NUM>300</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>3'7 Km 1 casa Masía del Hostalet</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>821</id>
+		<lat>40.131862</lat>
+		<lon>-0.302121</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Cachifa</BANDO>
+		<registre1893>808 Masia Cachifa, de la Cachifa</registre1893>
+		<img_foto>img\nofoto.png</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>La Caxifa</NOMP>
+		<WAY>M161</WAY>
+		<NOM>CATXIFA</NOM>
+		<QUE>Masos</QUE>
+		<X>734520</X>
+		<Y>4447584</Y>
+		<Z>730</Z>
+		<PADRO>Catxifa</PADRO>
+		<FOTOS>Catxifa</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>la Caxifa</TOPONIM>
+		<MAPA>615(4-1)</MAPA>
+		<NUM>37</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>6'2 Km 5 casas Masia de la Cachifa</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>978</id>
+		<lat>40.144052</lat>
+		<lon>-0.248292</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Cabezo Miret</BANDO>
+		<registre1893>1364 Masia del Cabezo de Miret</registre1893>
+		<img_foto>img\miret.JPG</img_foto>
+		<img_foto2>img\miret2-1.JPG</img_foto2>
+		<img_foto3>img\miret2-2.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas Cabeço Miret</NOMP>
+		<WAY>M10</WAY>
+		<NOM>MIRET1</NOM>
+		<QUE>Masos</QUE>
+		<X>727677</X>
+		<Y>4451760</Y>
+		<Z>1140</Z>
+		<PADRO>Cabeço Miret</PADRO>
+		<FOTOS>Cabeço Miret</FOTOS>
+		<TNE>Masia Miret</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Miret</TOPONIM>
+		<MAPA>615(4-1)</MAPA>
+		<NUM>39</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>17'5 Km 2 casas Masía del Cabezo de Miret</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>980</id>
+		<lat>40.183515</lat>
+		<lon>-0.327063</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Carrera</BANDO>
+		<registre1893>855 Masia de la Carrera</registre1893>
+		<img_foto>img\carrera.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Carrera</NOMP>
+		<WAY>M158</WAY>
+		<NOM>CARRERA</NOM>
+		<QUE>Masos</QUE>
+		<X>734154</X>
+		<Y>4447921</Y>
+		<Z>721</Z>
+		<PADRO>Carrera</PADRO>
+		<FOTOS>Carrera</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de la Carrera</TOPONIM>
+		<MAPA>615(4-1)</MAPA>
+		<NUM>41</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>6'2 Km 3 casas Carrera (La)</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>982</id>
+		<lat>40.147187</lat>
+		<lon>-0.252461</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Plá Peñarrocha</BANDO>
+		<registre1893>1919 Partida de la Peñarrocha, Masia Peñarrocha</registre1893>
+		<img_foto>img\PENYAROT.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Penya Roja</NOMP>
+		<WAY>M168</WAY>
+		<NOM>PENYAROTJA</NOM>
+		<QUE>Masos</QUE>
+		<X>734184</X>
+		<Y>4445531</Y>
+		<Z>418</Z>
+		<PADRO>Penarroja</PADRO>
+		<FOTOS>Penarroja</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de la Penya Roja</TOPONIM>
+		<MAPA>615(4-1)</MAPA>
+		<NUM>131</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>5 Km 3 casas Masía de la Peñarrocha</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1071</id>
+		<lat>40.125671</lat>
+		<lon>-0.252976</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Soldad</BANDO>
+		<registre1893>1719 Masia del Soldat</registre1893>
+		<img_foto>img\soldat.JPG</img_foto>
+		<img_foto2>img\soldat-1.JPG</img_foto2>
+		<img_foto3>img\soldat-2.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Soldat</NOMP>
+		<WAY>M179</WAY>
+		<NOM>SOLDAT</NOM>
+		<QUE>Masos</QUE>
+		<X>728396</X>
+		<Y>4444556</Y>
+		<Z>879</Z>
+		<PADRO>Soldat</PADRO>
+		<FOTOS>Soldat</FOTOS>
+		<TNE>Mas del Soldat</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas del Soldat</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM>9</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>10 Km 1 casa Masía del Soldat</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1193</id>
+		<lat>40.118487</lat>
+		<lon>-0.321177</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Sevilla</BANDO>
+		<registre1893>1673 Masia Sevilla</registre1893>
+		<img_foto>img\sevilla.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Sevilla</NOMP>
+		<WAY>M141</WAY>
+		<NOM>SEVILLA</NOM>
+		<QUE>Masos</QUE>
+		<X>730000</X>
+		<Y>4445628</Y>
+		<Z>780</Z>
+		<PADRO>Sevilleta</PADRO>
+		<FOTOS>Sevilleta</FOTOS>
+		<TNE>Mas Sevila</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Sevilla</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM>24</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>5 Km 1 casa Masía de Sevilla</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1208</id>
+		<lat>40.127698</lat>
+		<lon>-0.301992</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Cristobal</BANDO>
+		<registre1893>1725 Masia de Colom o Cristobal</registre1893>
+		<img_foto>img\cristobal.JPG</img_foto>
+		<img_foto2>img\cristobal-1.JPG</img_foto2>
+		<img_foto3>img\cristobal-2.JPG</img_foto3>
+		<img_foto4>img\cristobal-3.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Cristóbal</NOMP>
+		<WAY>M181</WAY>
+		<NOM>CRISTOBAL</NOM>
+		<QUE>Masos</QUE>
+		<X>728544</X>
+		<Y>4443818</Y>
+		<Z>829</Z>
+		<PADRO>Cristobal</PADRO>
+		<FOTOS>Cristobal</FOTOS>
+		<TNE>Mas Cristobal</TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM>Mas de Cristóbal</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM>30</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1214</id>
+		<lat>40.111805</lat>
+		<lon>-0.319703</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA></FECHA>
+		<BANDO></BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\casanova.JPG</img_foto>
+		<img_foto2>img\casanova1-1.JPG</img_foto2>
+		<img_foto3>img\casanova1-2.JPG</img_foto3>
+		<img_foto4>img\casanova 2.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP></NOMP>
+		<WAY></WAY>
+		<NOM></NOM>
+		<QUE>Masos</QUE>
+		<X></X>
+		<Y></Y>
+		<Z></Z>
+		<PADRO></PADRO>
+		<FOTOS></FOTOS>
+		<TNE></TNE>
+		<MAP></MAP>
+		<OBS>La van cremà quan la guerra dels Carlistes</OBS>
+		<TOPONIM>la Casa Nova</TOPONIM>
+		<MAPA>615(3-2)</MAPA>
+		<NUM>108</NUM>
+		<TRANSC></TRANSC>
+		<CLAU>10301</CLAU>
+		<MUN1>12072</MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1292</id>
+		<lat>0</lat>
+		<lon>0</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Caseta Miret</BANDO>
+		<registre1893>1365 Masia de Miret, 55</registre1893>
+		<img_foto>img\miret.JPG</img_foto>
+		<img_foto2>img\miret2-1.JPG</img_foto2>
+		<img_foto3>img\miret2-2.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>La Caseta del Mas de Miret</NOMP>
+		<WAY>M6</WAY>
+		<NOM>MIRET.CS</NOM>
+		<QUE>Masos</QUE>
+		<X>727007</X>
+		<Y>4451145</Y>
+		<Z>1070</Z>
+		<PADRO>Caseta Miret</PADRO>
+		<FOTOS>Caseta Miret</FOTOS>
+		<TNE>Masia Canera</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM></TOPONIM>
+		<MAPA></MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU></CLAU>
+		<MUN1></MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>17'5 Km  3 casas Masía de Miret</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1305</id>
+		<lat>40.178162</lat>
+		<lon>-0.335141</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Llepasar Baix</BANDO>
+		<registre1893>1128 Masia de Llepasar de Baix</registre1893>
+		<img_foto>img\pauets.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Casa els Pauets</NOMP>
+		<WAY>M42</WAY>
+		<NOM>PAUETS</NOM>
+		<QUE>Masos</QUE>
+		<X>732484</X>
+		<Y>4450271</Y>
+		<Z>729</Z>
+		<PADRO>Llepasa Baix</PADRO>
+		<FOTOS>Llepasa Baix</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM></TOPONIM>
+		<MAPA></MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU></CLAU>
+		<MUN1></MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>7 Km 5 casas Masía de Llepassar de báix</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1306</id>
+		<lat>40.168799</lat>
+		<lon>-0.271198</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Venta talladures</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\talladures venta bella.JPG</img_foto>
+		<img_foto2>img\talladures venta nova.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Venta de Talladures</NOMP>
+		<WAY>M51</WAY>
+		<NOM>TALLADU1.V</NOM>
+		<QUE>Masos</QUE>
+		<X>733230</X>
+		<Y>4450938</Y>
+		<Z>770</Z>
+		<PADRO>Venta Talladures</PADRO>
+		<FOTOS>Venta Talladures</FOTOS>
+		<TNE></TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM></TOPONIM>
+		<MAPA></MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU></CLAU>
+		<MUN1></MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1307</id>
+		<lat>40.174594</lat>
+		<lon>-0.262206</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Lloma Tena</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\lauro.JPG</img_foto>
+		<img_foto2>img\lauro-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Casa Lauro</NOMP>
+		<WAY>M54</WAY>
+		<NOM>LAURO</NOM>
+		<QUE>Masos</QUE>
+		<X>733895</X>
+		<Y>4450114</Y>
+		<Z>749</Z>
+		<PADRO></PADRO>
+		<FOTOS>Casa Pollastre</FOTOS>
+		<TNE></TNE>
+		<MAP>592-IV</MAP>
+		<OBS>Casa Lauro "El Pollastre" - Mas de la Lloma del Mas de Tena -</OBS>
+		<TOPONIM></TOPONIM>
+		<MAPA></MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU></CLAU>
+		<MUN1></MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1308</id>
+		<lat>40.166994</lat>
+		<lon>-0.254703</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Fons</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\bruno.JPG</img_foto>
+		<img_foto2>img\bruno-1.JPG</img_foto2>
+		<img_foto3>img\bruno-3.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas Les Fonts</NOMP>
+		<WAY>M63</WAY>
+		<NOM>FONTS</NOM>
+		<QUE>Masos</QUE>
+		<X>736451</X>
+		<Y>4453153</Y>
+		<Z>573</Z>
+		<PADRO>Fonts</PADRO>
+		<FOTOS>Roure</FOTOS>
+		<TNE>Mas de Bruno</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM></TOPONIM>
+		<MAPA></MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU></CLAU>
+		<MUN1></MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>13'9 Km  1 casa Masía de les Fonts</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1309</id>
+		<lat>40.193626</lat>
+		<lon>-0.223606</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>26-08-2005</FECHA>
+		<BANDO>Blay de la Vall</BANDO>
+		<registre1893>947 Masia de la Vall (Blay)</registre1893>
+		<img_foto>img\blaidelavall.JPG</img_foto>
+		<img_foto2>img\blaidelavall-1.JPG</img_foto2>
+		<img_foto3>img\blaidelavall-2.JPG</img_foto3>
+		<img_foto4>img\blaidelavall-3.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Blay de la Vall</NOMP>
+		<WAY>M66</WAY>
+		<NOM>BLAI</NOM>
+		<QUE>Masos</QUE>
+		<X>736913</X>
+		<Y>4452440</Y>
+		<Z>558</Z>
+		<PADRO>Blai de la Vall</PADRO>
+		<FOTOS>Blai de la Vall</FOTOS>
+		<TNE>Mas Blay de la Vall</TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM></TOPONIM>
+		<MAPA></MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU></CLAU>
+		<MUN1></MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>15 Km 7 casas Masía de Blay de la Vall</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1310</id>
+		<lat>40.18708</lat>
+		<lon>-0.218447</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>07/09/2005</FECHA>
+		<BANDO>Font Orti</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\luis arco.JPG</img_foto>
+		<img_foto2>img\luis arco 1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Casa Luis de l'Arco</NOMP>
+		<WAY>M88</WAY>
+		<NOM>LUISARC.CS</NOM>
+		<QUE>Masos</QUE>
+		<X>725676</X>
+		<Y>4449103</Y>
+		<Z>869</Z>
+		<PADRO>Font d'Orti</PADRO>
+		<FOTOS>Font d'Orti</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS>Mas de Garcés?</OBS>
+		<TOPONIM></TOPONIM>
+		<MAPA></MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU></CLAU>
+		<MUN1></MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1311</id>
+		<lat>40.160143</lat>
+		<lon>-0.351473</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Collet Romeral</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\collet romeral.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Collet del Romeral</NOMP>
+		<WAY>M112</WAY>
+		<NOM>COLLETROME</NOM>
+		<QUE>Masos</QUE>
+		<X>730820</X>
+		<Y>4449176</Y>
+		<Z>551</Z>
+		<PADRO>Collet Romeral</PADRO>
+		<FOTOS>Collet Romeral</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS>Casa Macoc</OBS>
+		<TOPONIM>Mas del Romeral</TOPONIM>
+		<MAPA></MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU></CLAU>
+		<MUN1></MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>2'5 Km 2 casas Casetas de Macoc ?</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1312</id>
+		<lat>40.159403</lat>
+		<lon>-0.29111</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>08/09/2005</FECHA>
+		<BANDO>Molino Fleixes</BANDO>
+		<registre1893>1175 Partida de les Fleixes</registre1893>
+		<img_foto>img\fleixes.JPG</img_foto>
+		<img_foto2>img\fleixes 1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Molí de les Fleixes</NOMP>
+		<WAY>M126</WAY>
+		<NOM>FLEIXES.M</NOM>
+		<QUE>Masos</QUE>
+		<X>732109</X>
+		<Y>4448010</Y>
+		<Z>448</Z>
+		<PADRO>Moli de les Fleixes</PADRO>
+		<FOTOS>Moli de les Fleixes</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS>Molí Nou o Molí de les Fleixes -  FLEIX: Arbre caducifoli (Fraxinus sp) en castellà fresno.</OBS>
+		<TOPONIM></TOPONIM>
+		<MAPA></MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU></CLAU>
+		<MUN1></MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1313</id>
+		<lat>40.148555</lat>
+		<lon>-0.276411</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Foyes</BANDO>
+		<registre1893>1860 Masia Foyes, Partida de les Foyes,104,106,105</registre1893>
+		<img_foto>img\foies.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de les Foies</NOMP>
+		<WAY>M144</WAY>
+		<NOM>FOIES</NOM>
+		<QUE>Masos</QUE>
+		<X>732237</X>
+		<Y>4445452</Y>
+		<Z>502</Z>
+		<PADRO>Foies</PADRO>
+		<FOTOS>Foies</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS>Casetes de les Foies, hi ha mes de una. El datum es del centre del lloc, conegut com Les Foies.</OBS>
+		<TOPONIM></TOPONIM>
+		<MAPA></MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU></CLAU>
+		<MUN1></MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>2 Km 2 casas Masía de les Fóyes</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1314</id>
+		<lat>40.1255</lat>
+		<lon>-0.27583</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO></BANDO>
+		<registre1893>785 Masia Malvestida</registre1893>
+		<img_foto>img\nofoto.png</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de la Malvestida</NOMP>
+		<WAY>M165</WAY>
+		<NOM>MALVESTIDA</NOM>
+		<QUE>Masos</QUE>
+		<X></X>
+		<Y></Y>
+		<Z></Z>
+		<PADRO>Maslvestida</PADRO>
+		<FOTOS>Malvestida</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM></TOPONIM>
+		<MAPA></MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU></CLAU>
+		<MUN1></MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1315</id>
+		<lat>0</lat>
+		<lon>0</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Venta Chuncar</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\panolla.JPG</img_foto>
+		<img_foto2>img\panolla-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Venta de Panolla</NOMP>
+		<WAY>M182</WAY>
+		<NOM>PANOLLA.V</NOM>
+		<QUE>Masos</QUE>
+		<X>728824</X>
+		<Y>4442295</Y>
+		<Z>780</Z>
+		<PADRO></PADRO>
+		<FOTOS>Venta Panolla</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM></TOPONIM>
+		<MAPA></MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU></CLAU>
+		<MUN1></MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1316</id>
+		<lat>40.098023</lat>
+		<lon>-0.316959</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Cabezo Foyachenta</BANDO>
+		<registre1893>1073 Masia del Cabezo de la Foya-chenta</registre1893>
+		<img_foto>img\cabesofoge-1.JPG</img_foto>
+		<img_foto2>img\cabesofoge-2.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas del Cabeso de la Fogenta</NOMP>
+		<WAY>M244</WAY>
+		<NOM>CABESOFOGE</NOM>
+		<QUE>Masos</QUE>
+		<X>733627</X>
+		<Y>4451163</Y>
+		<Z>782</Z>
+		<PADRO>El Cabeso Fogenta</PADRO>
+		<FOTOS>El Cabeso</FOTOS>
+		<TNE></TNE>
+		<MAP>592-IV</MAP>
+		<OBS>Cabeço de Dalt</OBS>
+		<TOPONIM></TOPONIM>
+		<MAPA></MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU></CLAU>
+		<MUN1></MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>10 Km 2 casas Masía del Cabezo de la Foyachenta</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1317</id>
+		<lat>40.176509</lat>
+		<lon>-0.257467</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Basilio o Mosqueri</BANDO>
+		<registre1893>1585 Mas de Basilio, 71,141, Masia Basilio</registre1893>
+		<img_foto>img\basilio.JPG</img_foto>
+		<img_foto2>img\basilio-1.JPG</img_foto2>
+		<img_foto3>img\basilio-2.JPG</img_foto3>
+		<img_foto4>img\basilio-3.JPG</img_foto4>
+		<img_foto5>img\basilio-4.JPG</img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Basilio</NOMP>
+		<WAY>M247</WAY>
+		<NOM>BASILIO</NOM>
+		<QUE>Masos</QUE>
+		<X>728413</X>
+		<Y>4446968</Y>
+		<Z>881</Z>
+		<PADRO>Basilio</PADRO>
+		<FOTOS>Basilio</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS>Estan junts el mas de Basilio i el Mas de Mosqueri, com que hi ha una font que es diu del Mosqueri, la gent es diu als dos El mas de Mosquerí.</OBS>
+		<TOPONIM></TOPONIM>
+		<MAPA></MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU></CLAU>
+		<MUN1></MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>7'5 Km 10 casas Masía de Basílio</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1318</id>
+		<lat>40.14019</lat>
+		<lon>-0.320124</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Caseta Ramonet</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\ramonet.JPG</img_foto>
+		<img_foto2></img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Ramonet</NOMP>
+		<WAY>M272</WAY>
+		<NOM>RAMONET.CS</NOM>
+		<QUE>Masos</QUE>
+		<X>731371</X>
+		<Y>4448410</Y>
+		<Z>465</Z>
+		<PADRO></PADRO>
+		<FOTOS>La Caseta (Caseta Ramonet)</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS>La Caseta de Ramonet</OBS>
+		<TOPONIM></TOPONIM>
+		<MAPA></MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU></CLAU>
+		<MUN1></MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1319</id>
+		<lat>40.152358</lat>
+		<lon>-0.284922</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Macoch</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\macoc.JPG</img_foto>
+		<img_foto2>img\macoc-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de Macoc</NOMP>
+		<WAY>M281</WAY>
+		<NOM>MACOC</NOM>
+		<QUE>Masos</QUE>
+		<X>733474</X>
+		<Y>4450250</Y>
+		<Z>747</Z>
+		<PADRO>Macoc</PADRO>
+		<FOTOS>Macoc</FOTOS>
+		<TNE></TNE>
+		<MAP>592-IV</MAP>
+		<OBS></OBS>
+		<TOPONIM></TOPONIM>
+		<MAPA></MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU></CLAU>
+		<MUN1></MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>7'5 Km 1 casa Masía de Macoc</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1320</id>
+		<lat>40.168335</lat>
+		<lon>-0.259592</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Venta Mollón</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\motllo.JPG</img_foto>
+		<img_foto2>img\motllo 1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Venta Mollón</NOMP>
+		<WAY>M286</WAY>
+		<NOM>MOTLLO</NOM>
+		<QUE>Masos</QUE>
+		<X>731005</X>
+		<Y>4448918</Y>
+		<Z>460</Z>
+		<PADRO>Motllo</PADRO>
+		<FOTOS>Motllo (Petito)</FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS>Venta Motlló?</OBS>
+		<TOPONIM></TOPONIM>
+		<MAPA></MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU></CLAU>
+		<MUN1></MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1321</id>
+		<lat>40.15703</lat>
+		<lon>-0.289032</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Umbria Pericos</BANDO>
+		<registre1893>1034 Masia Umbria dels Pericos</registre1893>
+		<img_foto>img\ombria pericos-1.JPG</img_foto>
+		<img_foto2>img\ombria pericos-2.JPG</img_foto2>
+		<img_foto3>img\ombria pericos-3.JPG</img_foto3>
+		<img_foto4>img\ombria pericos.JPG</img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de l'Ombria dels Pericos</NOMP>
+		<WAY>M292</WAY>
+		<NOM>OMBRIAPERI</NOM>
+		<QUE>Masos</QUE>
+		<X>736915</X>
+		<Y>4453723</Y>
+		<Z>499</Z>
+		<PADRO></PADRO>
+		<FOTOS>Ombria Pericos</FOTOS>
+		<TNE></TNE>
+		<MAP>592-IV</MAP>
+		<OBS>Mas dels Gats</OBS>
+		<TOPONIM></TOPONIM>
+		<MAPA></MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU></CLAU>
+		<MUN1></MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR>15 Km 2 casas Casetas dels Pericos</NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1322</id>
+		<lat>40.198625</lat>
+		<lon>-0.217952</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Umbria Azud</BANDO>
+		<registre1893>1445 Caseta del Sutero, Partida Azud</registre1893>
+		<img_foto>img\sotera.JPG</img_foto>
+		<img_foto2>img\sotera-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas de l'Ombria de la Sotera</NOMP>
+		<WAY>M314</WAY>
+		<NOM>SOTERA</NOM>
+		<QUE>Masos</QUE>
+		<X>731882</X>
+		<Y>4447994</Y>
+		<Z>466</Z>
+		<PADRO></PADRO>
+		<FOTOS></FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM></TOPONIM>
+		<MAPA></MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU></CLAU>
+		<MUN1></MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1323</id>
+		<lat>40.148473</lat>
+		<lon>-0.279078</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Venta Creu Foyos</BANDO>
+		<registre1893></registre1893>
+		<img_foto>img\eugenio.JPG</img_foto>
+		<img_foto2>img\eugenio-1.JPG</img_foto2>
+		<img_foto3></img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Venta d'Eugenio</NOMP>
+		<WAY>M348</WAY>
+		<NOM>EUGENIO.V</NOM>
+		<QUE>Masos</QUE>
+		<X></X>
+		<Y></Y>
+		<Z></Z>
+		<PADRO></PADRO>
+		<FOTOS></FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM></TOPONIM>
+		<MAPA></MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU></CLAU>
+		<MUN1></MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1324</id>
+		<lat>0</lat>
+		<lon>0</lon>
+	</mas>
+	<mas>
+		<img_top></img_top>
+		<img_top2></img_top2>
+		<FECHA>09/09/2005</FECHA>
+		<BANDO>Clots</BANDO>
+		<registre1893>1651 Partida dels Clots, Clots, Masia Clots</registre1893>
+		<img_foto>img\clots.JPG</img_foto>
+		<img_foto2>img\clots-1.JPG</img_foto2>
+		<img_foto3>img\clots-2.JPG</img_foto3>
+		<img_foto4></img_foto4>
+		<img_foto5></img_foto5>
+		<img_foto6></img_foto6>
+		<img_foto7></img_foto7>
+		<img_foto8></img_foto8>
+		<img_foto9></img_foto9>
+		<img_foto10></img_foto10>
+		<NOMP>Mas dels Clots</NOMP>
+		<WAY>M359</WAY>
+		<NOM>CLOTS</NOM>
+		<QUE>Masos</QUE>
+		<X>731059</X>
+		<Y>4446361</Y>
+		<Z>677</Z>
+		<PADRO></PADRO>
+		<FOTOS></FOTOS>
+		<TNE></TNE>
+		<MAP>615-II</MAP>
+		<OBS></OBS>
+		<TOPONIM></TOPONIM>
+		<MAPA></MAPA>
+		<NUM></NUM>
+		<TRANSC></TRANSC>
+		<CLAU></CLAU>
+		<MUN1></MUN1>
+		<MUN2></MUN2>
+		<MUN3></MUN3>
+		<NOMENCLATOR></NOMENCLATOR>
+		<NORMAL></NORMAL>
+		<COMENTARIS></COMENTARIS>
+		<id>1325</id>
+		<lat>40.134004</lat>
+		<lon>-0.289315</lon>
+	</mas>
+</masos>

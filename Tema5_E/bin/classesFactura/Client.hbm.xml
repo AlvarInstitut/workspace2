@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 20/01/2016 13:49:47 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="classesFactura.Client" table="client">
+        <id name="codCli" type="int">
+            <column name="cod_cli" precision="5" scale="0" />
+            <generator class="assigned" />
+        </id>
+        <many-to-one name="poble" class="classesFactura.Poble" fetch="select">
+            <column name="cod_pob" precision="5" scale="0" />
+        </many-to-one>
+        <property name="nom" type="string">
+            <column name="nom" length="100" />
+        </property>
+        <property name="adreca" type="string">
+            <column name="adreca" length="100" />
+        </property>
+        <property name="cp" type="java.lang.Integer">
+            <column name="cp" precision="5" scale="0" />
+        </property>
+        <set name="facturas" table="factura" inverse="true" lazy="true" fetch="select">
+            <key>
+                <column name="cod_cli" precision="5" scale="0" not-null="true" />
+            </key>
+            <one-to-many class="classesFactura.Factura" />
+        </set>
+    </class>
+</hibernate-mapping>

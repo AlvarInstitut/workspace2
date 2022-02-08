@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/alvar/Dropbox/Privat/Apunts/Connectors jdbc/postgresql-9.4-1204.jdbc4.jar"/>
+	<classpathentry kind="lib" path="/home/alvar/Dropbox/Privat/Apunts/Connectors jdbc/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/alvar/Dropbox/Privat/Apunts/Connectors jdbc/db4o-8.0.276.16149-core-java5.jar"/>
+	<classpathentry kind="lib" path="/home/alvar/Dropbox/Privat/Apunts/Connectors jdbc/XQJ/lib/exist-xqj-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/alvar/Dropbox/Privat/Apunts/Connectors jdbc/XQJ/lib/xqj2-0.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/alvar/Dropbox/Privat/Apunts/Connectors jdbc/XQJ/lib/xqjapi.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

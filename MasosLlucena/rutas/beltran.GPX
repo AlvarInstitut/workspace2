@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="CompeGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.compegps.com">
+      <text>CompeGPS TEAM, SL</text>
+    </link>
+    <time>2010-04-22T11:15:18Z</time>
+    <bounds maxlat="40.110154" maxlon="-0.271390" minlat="40.103597" minlon="-0.274707"/>
+  </metadata>
+  <trk>
+    <name>beltran</name>
+    <desc>19/06/2005 11:34:08                </desc>
+    <trkseg>
+      <trkpt lat="40.110154" lon="-0.271390">
+        <ele>-236.8</ele>
+        <time>2005-06-19T09:34:08Z</time>
+      </trkpt>
+      <trkpt lat="40.110041" lon="-0.271881">
+        <ele>-236.8</ele>
+        <time>2005-06-19T09:34:09Z</time>
+      </trkpt>
+      <trkpt lat="40.109921" lon="-0.272102">
+        <ele>-236.8</ele>
+        <time>2005-06-19T09:34:10Z</time>
+      </trkpt>
+      <trkpt lat="40.109763" lon="-0.272431">
+        <ele>-236.8</ele>
+        <time>2005-06-19T09:34:11Z</time>
+      </trkpt>
+      <trkpt lat="40.109779" lon="-0.273135">
+        <ele>-236.8</ele>
+        <time>2005-06-19T09:34:13Z</time>
+      </trkpt>
+      <trkpt lat="40.109386" lon="-0.272339">
+        <ele>-236.8</ele>
+        <time>2005-06-19T09:34:15Z</time>
+      </trkpt>
+      <trkpt lat="40.108925" lon="-0.272141">
+        <ele>-236.8</ele>
+        <time>2005-06-19T09:34:16Z</time>
+      </trkpt>
+      <trkpt lat="40.108546" lon="-0.271940">
+        <ele>-236.8</ele>
+        <time>2005-06-19T09:34:20Z</time>
+      </trkpt>
+      <trkpt lat="40.108182" lon="-0.272388">
+        <ele>-236.8</ele>
+        <time>2005-06-19T09:34:21Z</time>
+      </trkpt>
+      <trkpt lat="40.107895" lon="-0.272561">
+        <ele>-236.8</ele>
+        <time>2005-06-19T09:34:24Z</time>
+      </trkpt>
+      <trkpt lat="40.107407" lon="-0.273013">
+        <ele>-236.8</ele>
+        <time>2005-06-19T09:34:25Z</time>
+      </trkpt>
+      <trkpt lat="40.106919" lon="-0.273465">
+        <ele>-236.8</ele>
+        <time>2005-06-19T09:34:26Z</time>
+      </trkpt>
+      <trkpt lat="40.106220" lon="-0.273764">
+        <ele>-236.8</ele>
+        <time>2005-06-19T09:34:28Z</time>
+      </trkpt>
+      <trkpt lat="40.105937" lon="-0.274153">
+        <ele>-236.8</ele>
+        <time>2005-06-19T09:34:29Z</time>
+      </trkpt>
+      <trkpt lat="40.105577" lon="-0.274707">
+        <ele>-236.8</ele>
+        <time>2005-06-19T09:34:34Z</time>
+      </trkpt>
+      <trkpt lat="40.105399" lon="-0.274229">
+        <ele>-236.8</ele>
+        <time>2005-06-19T09:34:47Z</time>
+      </trkpt>
+      <trkpt lat="40.104929" lon="-0.273707">
+        <ele>-236.8</ele>
+        <time>2005-06-19T09:34:48Z</time>
+      </trkpt>
+      <trkpt lat="40.104467" lon="-0.273509">
+        <ele>-236.8</ele>
+        <time>2005-06-19T09:34:49Z</time>
+      </trkpt>
+      <trkpt lat="40.103915" lon="-0.272991">
+        <ele>-236.8</ele>
+        <time>2005-06-19T09:34:51Z</time>
+      </trkpt>
+      <trkpt lat="40.103730" lon="-0.272187">
+        <ele>-236.8</ele>
+        <time>2005-06-19T09:34:52Z</time>
+      </trkpt>
+      <trkpt lat="40.103597" lon="-0.271868">
+        <ele>-236.8</ele>
+        <time>2005-06-19T09:34:53Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

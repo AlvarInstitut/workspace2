@@ -1,0 +1,10 @@
+package preparacio;
+
+public class JDBC_Alu_Pract {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

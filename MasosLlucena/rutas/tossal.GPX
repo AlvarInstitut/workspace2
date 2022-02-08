@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="CompeGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.compegps.com">
+      <text>CompeGPS TEAM, SL</text>
+    </link>
+    <time>2010-04-23T14:52:49Z</time>
+    <bounds maxlat="40.097110" maxlon="-0.310277" minlat="40.094645" minlon="-0.316237"/>
+  </metadata>
+  <trk>
+    <name>tossal</name>
+    <desc>26/04/2005 22:29:33                </desc>
+    <trkseg>
+      <trkpt lat="40.097110" lon="-0.316237">
+        <ele>-236.8</ele>
+        <time>2005-04-26T20:29:33Z</time>
+      </trkpt>
+      <trkpt lat="40.096768" lon="-0.315818">
+        <ele>-236.8</ele>
+        <time>2005-04-26T20:29:34Z</time>
+      </trkpt>
+      <trkpt lat="40.096548" lon="-0.315286">
+        <ele>-236.8</ele>
+        <time>2005-04-26T20:29:34Z</time>
+      </trkpt>
+      <trkpt lat="40.096541" lon="-0.315016">
+        <ele>-236.8</ele>
+        <time>2005-04-26T20:29:36Z</time>
+      </trkpt>
+      <trkpt lat="40.096365" lon="-0.314534">
+        <ele>-236.8</ele>
+        <time>2005-04-26T20:29:46Z</time>
+      </trkpt>
+      <trkpt lat="40.096270" lon="-0.314051">
+        <ele>-236.8</ele>
+        <time>2005-04-26T20:29:48Z</time>
+      </trkpt>
+      <trkpt lat="40.096339" lon="-0.313400">
+        <ele>-236.8</ele>
+        <time>2005-04-26T20:29:49Z</time>
+      </trkpt>
+      <trkpt lat="40.096248" lon="-0.313079">
+        <ele>-236.8</ele>
+        <time>2005-04-26T20:29:50Z</time>
+      </trkpt>
+      <trkpt lat="40.096033" lon="-0.312763">
+        <ele>-236.8</ele>
+        <time>2005-04-26T20:29:52Z</time>
+      </trkpt>
+      <trkpt lat="40.095696" lon="-0.312560">
+        <ele>-236.8</ele>
+        <time>2005-04-26T20:29:53Z</time>
+      </trkpt>
+      <trkpt lat="40.095441" lon="-0.312354">
+        <ele>-236.8</ele>
+        <time>2005-04-26T20:29:54Z</time>
+      </trkpt>
+      <trkpt lat="40.095391" lon="-0.311978">
+        <ele>-236.8</ele>
+        <time>2005-04-26T20:29:55Z</time>
+      </trkpt>
+      <trkpt lat="40.095301" lon="-0.311657">
+        <ele>-236.8</ele>
+        <time>2005-04-26T20:29:56Z</time>
+      </trkpt>
+      <trkpt lat="40.095165" lon="-0.311176">
+        <ele>-236.8</ele>
+        <time>2005-04-26T20:29:57Z</time>
+      </trkpt>
+      <trkpt lat="40.094986" lon="-0.310642">
+        <ele>-236.8</ele>
+        <time>2005-04-26T20:30:01Z</time>
+      </trkpt>
+      <trkpt lat="40.094645" lon="-0.310277">
+        <ele>-236.8</ele>
+        <time>2005-04-26T20:30:04Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

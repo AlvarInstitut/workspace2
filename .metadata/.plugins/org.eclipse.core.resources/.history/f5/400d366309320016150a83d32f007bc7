@@ -1,0 +1,10 @@
+package Programes;
+
+public class DB4O_Mostrar_prestecs {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

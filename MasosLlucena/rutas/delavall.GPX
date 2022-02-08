@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="CompeGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.compegps.com">
+      <text>CompeGPS TEAM, SL</text>
+    </link>
+    <time>2010-04-23T09:29:53Z</time>
+    <bounds maxlat="40.172508" maxlon="-0.233722" minlat="40.165933" minlon="-0.238536"/>
+  </metadata>
+  <trk>
+    <name>delavall</name>
+    <desc>09/05/2005 22:12:02                </desc>
+    <trkseg>
+      <trkpt lat="40.165933" lon="-0.238536">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:12:02Z</time>
+      </trkpt>
+      <trkpt lat="40.166218" lon="-0.238308">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:12:03Z</time>
+      </trkpt>
+      <trkpt lat="40.166396" lon="-0.237056">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:12:04Z</time>
+      </trkpt>
+      <trkpt lat="40.166701" lon="-0.235907">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:12:05Z</time>
+      </trkpt>
+      <trkpt lat="40.166857" lon="-0.235468">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:12:06Z</time>
+      </trkpt>
+      <trkpt lat="40.167225" lon="-0.235237">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:12:07Z</time>
+      </trkpt>
+      <trkpt lat="40.167257" lon="-0.234802">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:12:07Z</time>
+      </trkpt>
+      <trkpt lat="40.167751" lon="-0.234620">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:12:08Z</time>
+      </trkpt>
+      <trkpt lat="40.168379" lon="-0.234811">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:12:09Z</time>
+      </trkpt>
+      <trkpt lat="40.169512" lon="-0.235306">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:12:10Z</time>
+      </trkpt>
+      <trkpt lat="40.170000" lon="-0.234853">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:12:11Z</time>
+      </trkpt>
+      <trkpt lat="40.170279" lon="-0.234354">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:12:12Z</time>
+      </trkpt>
+      <trkpt lat="40.171436" lon="-0.234091">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:12:13Z</time>
+      </trkpt>
+      <trkpt lat="40.171981" lon="-0.234285">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:12:14Z</time>
+      </trkpt>
+      <trkpt lat="40.172508" lon="-0.233722">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:12:15Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

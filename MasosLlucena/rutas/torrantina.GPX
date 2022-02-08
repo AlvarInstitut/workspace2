@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="CompeGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.compegps.com">
+      <text>CompeGPS TEAM, SL</text>
+    </link>
+    <time>2010-04-23T14:51:30Z</time>
+    <bounds maxlat="40.206732" maxlon="-0.215650" minlat="40.202262" minlon="-0.223358"/>
+  </metadata>
+  <trk>
+    <name>torrantina</name>
+    <desc>16/05/2005 20:21:05                </desc>
+    <trkseg>
+      <trkpt lat="40.202262" lon="-0.223358">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:21:05Z</time>
+      </trkpt>
+      <trkpt lat="40.202919" lon="-0.223007">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:21:05Z</time>
+      </trkpt>
+      <trkpt lat="40.203526" lon="-0.222332">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:21:06Z</time>
+      </trkpt>
+      <trkpt lat="40.204044" lon="-0.221390">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:21:07Z</time>
+      </trkpt>
+      <trkpt lat="40.204438" lon="-0.220508">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:21:08Z</time>
+      </trkpt>
+      <trkpt lat="40.204915" lon="-0.219622">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:21:08Z</time>
+      </trkpt>
+      <trkpt lat="40.205651" lon="-0.219105">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:21:09Z</time>
+      </trkpt>
+      <trkpt lat="40.206115" lon="-0.219411">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:21:10Z</time>
+      </trkpt>
+      <trkpt lat="40.206320" lon="-0.219294">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:21:11Z</time>
+      </trkpt>
+      <trkpt lat="40.206307" lon="-0.218753">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:21:11Z</time>
+      </trkpt>
+      <trkpt lat="40.206242" lon="-0.217781">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:21:12Z</time>
+      </trkpt>
+      <trkpt lat="40.206307" lon="-0.217021">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:21:12Z</time>
+      </trkpt>
+      <trkpt lat="40.206732" lon="-0.215650">
+        <ele>-236.8</ele>
+        <time>2005-05-16T18:21:13Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

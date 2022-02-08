@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated 14-jun-2016 18:16:48 by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="classesVideoClub.PelLicula" table="pel_licula" schema="public" optimistic-lock="version">
+        <id name="codP" type="int">
+            <column name="cod_p" />
+            <generator class="assigned" />
+        </id>
+        <many-to-one name="productora" class="classesVideoClub.Productora" fetch="select">
+            <column name="cod_pr" length="10" />
+        </many-to-one>
+        <property name="titol" type="string">
+            <column name="titol" length="50" />
+        </property>
+        <property name="numEx" type="java.lang.Integer">
+            <column name="num_ex" />
+        </property>
+        <property name="director" type="string">
+            <column name="director" length="50" />
+        </property>
+        <property name="numDisp" type="java.lang.Integer">
+            <column name="num_disp" />
+        </property>
+        <set name="lloguers" table="lloguer" inverse="true" lazy="true" fetch="select">
+            <key>
+                <column name="cod_p" />
+            </key>
+            <one-to-many class="classesVideoClub.Lloguer" />
+        </set>
+    </class>
+</hibernate-mapping>

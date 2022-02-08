@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="CompeGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.compegps.com">
+      <text>CompeGPS TEAM, SL</text>
+    </link>
+    <time>2010-04-23T09:32:07Z</time>
+    <bounds maxlat="40.166193" maxlon="-0.238664" minlat="40.163455" minlon="-0.244256"/>
+  </metadata>
+  <trk>
+    <name>gatell</name>
+    <desc>09/05/2005 22:03:08                </desc>
+    <trkseg>
+      <trkpt lat="40.163917" lon="-0.238664">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:03:08Z</time>
+      </trkpt>
+      <trkpt lat="40.164167" lon="-0.238708">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:03:09Z</time>
+      </trkpt>
+      <trkpt lat="40.164145" lon="-0.239521">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:03:10Z</time>
+      </trkpt>
+      <trkpt lat="40.163455" lon="-0.240198">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:03:14Z</time>
+      </trkpt>
+      <trkpt lat="40.163808" lon="-0.241049">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:03:15Z</time>
+      </trkpt>
+      <trkpt lat="40.163904" lon="-0.241586">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:03:16Z</time>
+      </trkpt>
+      <trkpt lat="40.164226" lon="-0.242769">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:03:39Z</time>
+      </trkpt>
+      <trkpt lat="40.164747" lon="-0.243721">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:03:41Z</time>
+      </trkpt>
+      <trkpt lat="40.165501" lon="-0.243961">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:03:43Z</time>
+      </trkpt>
+      <trkpt lat="40.166193" lon="-0.244256">
+        <ele>-236.8</ele>
+        <time>2005-05-09T20:03:50Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

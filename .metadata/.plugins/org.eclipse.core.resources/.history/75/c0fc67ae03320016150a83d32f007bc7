@@ -1,0 +1,24 @@
+package Programes;
+
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+import org.json.simple.parser.ParseException;
+
+public class Fitxers_Notes {
+
+	public static void main(String[] args) throws FileNotFoundException, IOException, ParseException {
+		JSONObject arrel = (JSONObject) new JSONParser().parse(new FileReader("notes.json"));
+		JSONArray alumnes = (JSONArray) arrel.get("alumnes");
+		for (Object alu : alumnes){
+			JSONObject a = (JSONObject) alu;
+			System.out.println(a.get("nom"));
+		}
+
+	}
+
+}
